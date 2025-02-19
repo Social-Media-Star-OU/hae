@@ -1,0 +1,454 @@
+{
+    "page" : {
+        "dialog" : {
+            "skip" : "Skip to main content",
+            "top" : "This website is intended for users outside of the US and UK."
+        },
+        "footer" : {
+            "outside" : "This website is intended for users outside of the US and UK.",
+            "References" : "References",
+            "treatment" : "Longhurst HJ, Bork K. Hereditary angioedema: causes, manifestations and treatment.",
+            "em" : "Br J Hosp Med (Lond)",
+            "2006" : "2006;67(12):654-657.",
+            "state" : "Banerji A, Busse P, Christiansen SC, et al. Current state of hereditary angioedema management: a patient survey.",
+            "em2" : "Allergy Asthma Proc",
+            "2015" : ". 2015;36:213-217.",
+            "footerMenu" : "Footer menu",
+            "sitemap" : "Site Map",
+            "privacy" : "Privacy & Cookies Policy",
+            "legal" : "Legal Notice",
+            "contact" : "Contact Us",
+            "copy1" : "This website is intended for users outside of the US and UK. The website has been developed by Takeda in accordance with industry and legal standards. Takeda makes every reasonable effort to include accurate and current information. However, the information provided on the website is not exhaustive and should not be used in place of a visit, call, consultation, or advice of your doctor or other healthcare professional. Takeda does not recommend the self-management of health problems. Should you have any healthcare-related questions, please call or see your doctor or other healthcare professional promptly. You should never disregard medical advice or delay in seeking it because of something you have read here.",
+            "copy2" : "Copyright © 2023 Takeda Pharmaceutical Company Limited. All rights reserved. Takeda and Takeda Logo are registered trademarks of Takeda Pharmaceutical Company. C-ANPROM/INT//5160 November 2023",
+            "cookieTitle" : "This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.",
+            "cookieFind" : "Find out more"
+        },
+        "navbar" : {
+            "patient" : {
+                "dropdown" : {                   
+                    "title" : "Patient menu",
+                    "WhatIsHAE" : {
+                        "title" : "what is HAE?",
+                        "symptoms" : "signs, symptoms and causes",
+                        "symptomsA" : "patient/what-is-hae/signs-symptoms-and-causes",
+                        "diagnosing" : "diagnosing HAE",
+                        "diagnosingA" : "patient/what-is-hae/diagnosing-hae",
+                        "treating" : "treating HAE",
+                        "treatingA" : "patient/what-is-hae/treating-hae"
+                    },
+                    "LivingWithHAE" : {
+                        "title" : "living with HAE",
+                        "impact" : "impact of HAE",
+                        "impactA" : "patient/living-with-hae/impact-of-hae",
+                        "family" : "HAE and family",
+                        "familyA" : "patient/living-with-hae/hae-and-family",
+                        "support" : "support for HAE",
+                        "supportA" : "patient/living-with-hae/support-for-hae"
+                    }
+                },
+                "contact" : "Contacts of HAE diagnostic centers",
+                "contactA" : "hae/utility/center-contacts",
+                "utilityMenu" : "Patient Utility Menu",
+                "prof" : "for healthcare professionals",
+                "language" : "Eesti"
+            },
+            "hcp" : {
+                "dropdown" : {
+                    "title" : "HCP Menu",
+                    "identifying" : {
+                        "title" : "identifying HAE",
+                        "symptoms" : "signs, symptoms and causes",
+                        "symptomsA" : "hcp/identifying-hae/signs-symptoms-and-causes",
+                        "diagnosing" : "diagnosing HAE",
+                        "diagnosingA" : "hcp/identifying-hae/diagnosing-hae",
+                        "treating" : "treating HAE",
+                        "treatingA" : "hcp/identifying-hae/treating-hae"
+                    },
+                    "impact" : {
+                        "title" : "impact of HAE",
+                        "burden" : "burden of HAE",
+                        "burdenA" : "hcp/impact-of-hae/burden-of-hae",
+                        "patients" : "talking to patients",
+                        "patientsA" : "hcp/impact-of-hae/talking-to-patients",
+                        "managing" : "managing HAE",
+                        "managingA" : "hcp/impact-of-hae/managing-hae"
+                    }
+                },
+                "contact" : "Contacts of HAE diagnostic centers",
+                "contactA" : "hae/utility/center-contacts",
+                "utilityMenu" : "Patient Utility Menu",
+                "prof" : "for patients and caregivers",
+                "language" : "Eesti"
+            },
+            "utility" : {
+                "language" : "Eesti"
+            }
+        }, 
+        "index" : {
+           "title" : "Home - knowHAE", 
+           "language" : "Eesti",
+           "sliderPrevious" : "Previous",
+           "sliderNext" : "Next",
+           "WhatIsHAE" : "What is HAE?",
+           "WhatIsHAEDesc" : "Get to know the symptoms of HAE, like random swelling and pain",
+           "LivingWithHAE" : "Living with HAE",
+           "LivingWithHAEDesc" : "Get to know how HAE may affect you and your family— and how to manage it",
+           "HealthCareProvider" : "I'm a healthcare provider",
+           "IdentifyingHAE" : "Identifying HAE",
+           "IdentifyingHAEDesc" : "Get to know the signs of HAE, a rare disease that’s often misdiagnosed",
+           "ManagingHAE" : "Managing HAE",
+           "ManagingHAEDesc" : "Get to know the emotional impact of HAE and more"
+        },
+        "patient" : {
+            "diagnosing" : {
+                "title" : "knowHAE | diagnosing hereditary angioedema (HAE)",
+                "topTitle" : "how is hereditary angioedema diagnosed?",
+                "topAlt" : "Getting a diagnosis starts by talking with your doctor. Because hereditary angioedema (HAE) is rare, few people have heard of it, including many doctors. In fact, many doctors will never see a patient with HAE. That's why getting an accurate diagnosis can be challenging.",
+                "appointment" : "What to expect at your doctor’s appointment",
+                "appointmentAlt" : "If your doctor thinks you might have HAE, he or she will likely ask about your symptoms and when you ﬁrst noticed them. Because HAE is usually passed down through relatives, your doctor will probably also ask if anyone in your family has swelling episodes or has been diagnosed with HAE.",
+                "goodtoknow" : "good to know",
+                "goodtoknowAlt" : "You could still have HAE even if no one else in your family has it. One in four HAE cases results from a spontaneous genetic mutation.",
+                "testHAE" : "Tests to conﬁrm an HAE diagnosis",
+                "testHAEalt" : "If your doctor thinks you might have HAE, a blood test is often used to confirm the diagnosis. This measures how much C1-INH protein you have. They will also look at other information, like your symptoms, how they respond to certain medications, and your family history.",
+                "booklet" : "HAE booklet",
+                "bookletAlt" : "Do you suspect you, your family member or someone you know has hereditary angioedema? Download this booklet for more information on the disease and how to get diagnosed.",
+                "download" : "download the booklet",
+                "HAEtreated" : "How is HAE treated?"
+            },
+            "symptoms" : {
+                "title" : "knowHAE | hereditary angioedema (HAE) signs, symptoms, causes",
+                "skip" : "Skip to main content",
+                "headerTop" : "This website is intended for users outside of the US and UK.",
+                "topTitle" : "what is hereditary angioedema?",
+                "topAlt" : "Hereditary angioedema (HAE) is a rare genetic disorder. It's thought that only 1 in 50,000 people in the entire world have HAE.",
+                "hereditary" : "signs and symptoms of hereditary angioedema",
+                "hereditaryAlt" : "HAE can cause painful and sudden swelling in any part of the body. These HAE “attacks” can happen without warning and last for days. The pain and swelling of an attack can also be disabling, making it diﬃcult to perform everyday tasks. This can make living with HAE physically and emotionally challenging.",
+                "hereditaryAttacks" : "Attacks can occur in any part of the body, but common swell locations include:",
+                "bullets" : {
+                    "a" : "Abdomen",
+                    "b" : "Face",
+                    "c" : "Throat",
+                    "d" : "Genitals",
+                    "e" : "Hands",
+                    "f" : "Feet"
+                },
+                "swelling" : "Swelling in the throat can become life threatening because it can lead to suffocation. If you have an attack affecting the throat, you should seek emergency care right away.",
+                "unpredictable" : "HAE can be unpredictable",
+                "unpredictableAlt" : "HAE symptoms can look very diﬀerent from person to person—and even within the same person. For instance, someone with HAE may get attacks more often during puberty. Or someone who usually experiences abdominal swelling may still have an attack in the throat or elsewhere.",
+                "goodtoknow" : "good to know",
+                "goodtoknowAlt" : "An HAE attack can start in one location and spread to another.",
+                "worse1" : "HAE attacks may last for days if not treated. The swelling usually gets worse over a 24-hour period and then slowly goes away during the next 48-72 hours.",
+                "worse2" : "Some people experience a tingling sensation before an attack. They may also notice a nonraised, non-itchy rash before the swelling begins.",
+                "angioedema" : "what causes hereditary angioedema?",
+                "angioedemaAlt" : "People with HAE Types 1 and 2 have low functioning C1 esterase inhibitors (C1-INH), and their plasma levels are low (HAE Type 1) or normal/elevated (HAE Type 2).",
+                "angioedemaAlt2" : "When there isn't enough working C1-INH, another protein called plasma kallikrein becomes overactive. Too much plasma kallikrein activity leads to an overproduction of bradykinin - the substance that leads to an attack.",
+                "angioedemaAlt3" : "It is also possible for people to have clinical symptoms that are indistinguishable from Types 1 and 2 and have normal plasma levels and functioning C1-INH. This is known as HAE with normal levels of C1-INH (HAE nC1-INH), previously referred to as HAE Type 3.",
+                "HAEattacks" : "What causes HAE attacks?",
+                "HAEattacksAlt" : "HAE attacks are sometimes set oﬀ by a trigger. HAE can vary a lot from person to person, so your triggers might be very diﬀerent from someone else’s. For example, some people might only experience an HAE attack because they've gone through a physical trauma, like falling oﬀ a bicycle or having a dental procedure. For others, something as simple as making a repetitive motion, like using scissors, could cause an HAE attack.",
+                "attackTriggers" : "Some common HAE attack triggers are:",
+                "attackTriggersIcon1" : "Emotional stress",
+                "attackTriggersIcon2" : "Minor injury, surgery, or dental procedure",
+                "attackTriggersIcon3" : "hereditary-angioedema-",
+                "attackTriggersIcon4" : "Hormonal inﬂuences, like menstruation or certain types of birth control",
+                "attackTriggersIcon5" : "Physical activities like mowing the lawn or using scissors",
+                "HAEdiagnosed" : "How is HAE diagnosed?"
+            },
+            "treating" : {
+                "title" : "knowHAE | hereditary angioedema (HAE) treatment",
+                "topTitle" : "how is hereditary angioedema treated?",
+                "topAlt" : "When talking with your doctor, it might be helpful to ask about diﬀerent treatment options for hereditary angioedema (HAE). These options include preventive and on-demand therapy.",
+                "preventive" : "Preventive HAE treatment",
+                "preventiveAlt" : "Preventive HAE treatment is also called prophylactic treatment. This involves taking medicine routinely to help you have fewer attacks and less severe attacks.",
+                "onDemand" : "On-demand HAE treatment",
+                "onDemandAlt" : "On-demand HAE treatment is medicine used to treat the symptoms of an HAE attack.¹ It is also known as acute treatment.",
+                "aﬀects" : "Not every person with HAE will have an attack that aﬀects the airway, but it is a risk. These attacks can be life threatening, so leading health organizations recommend that everyone with HAE have access to on-demand therapy. If you have HAE, it's important to talk with your doctor about on-demand treatment.",
+                "talkDoctor" : "Talk to your doctor about the treatment options available near you",
+                "goodtoknow" : "good to know",
+                "goodtoknowAlt" : "Because HAE can affect people so differently, it's important to work closely with your doctor to create a treatment plan that's right for you.",
+                "living" : "Living with HAE"
+            },
+            "impact" : {
+                "title" : "knowHAE | Impact of hereditary angioedema (HAE)",
+                "topTitle" : "living with hereditary angioedema",
+                "topAlt" : "Living with hereditary angioedema (HAE) isn’t easy. An HAE attack can be more than an interruption in your daily routine. It can be physically and emotionally painful, sometimes scary, and even life threatening.",
+                "worry" : "Like some people with HAE, you may ﬁnd yourself worrying about when your next attack will be. This may cause you to avoid things others may take for granted, like:",
+                "icon1" : "Making plans",
+                "icon2" : "Traveling or going on vacation",
+                "icon3" : "Eating certain foods",
+                "icon4" : "Being physically active",
+                "goodtoknow" : "good to know",
+                "goodtoknowAlt" : "There’s hope if you’re facing these setbacks. Talk to your healthcare provider about how to address the impact of your HAE.",
+                "attacks" : "Whether you have frequent attacks, or one every few months, the negative eﬀects of HAE can be felt even after the physical swelling and pain from an attack have gone away.",
+                "collapse" : {
+                    "a" : {
+                        "title" : "emotional impact of HAE",
+                        "strong" : "It is normal to feel sad and worried sometimes. But did you know people with HAE have higher rates of anxiety and depression?",
+                        "p1" : "People with HAE are more likely to have depression and anxiety, compared to the general population. <sup>4, 5, 6, 7 </sup>",
+                        "p2" : "Reasons for anxiety revolved around:²",
+                        "li1" : "Fear of the next attack, including a serious attack in the throat",
+                        "li2" : "Travelling far from home",
+                        "li3" : "Perceived burden on care partners, friends, and family",
+                        "li4" : "Passing HAE on to children"
+                    },
+                    "b" : {
+                        "title" : "impact of HAE on school and work",
+                        "strong" : "Nearly half of respondents reported that their HAE had held them back at school or work.⁸",
+                        "p1" : "It goes beyond just being absent during attacks. In a separate study, some people with HAE reported that they experienced:²",
+                        "li1" : "Career choices often being limited to part-time opportunities",
+                        "li2" : "Reduced productivity and absence from work",
+                        "li3" : "Perceived lack of understanding or support in the workplace",
+                        "li4" : "Setbacks in their career",
+                        "li5" : "Fear of losing their job",
+                        "p2" : "This impact increases with more frequent attacks.²"
+                    },
+                    "c" : {
+                        "title" : "impact of HAE on your social life",
+                        "strong" : "If you’re worrying about your next attack, you may not commit to doing things with your family and friends—like taking a trip or hosting a dinner party. After all, if you don’t make plans in the ﬁrst place, then you avoid the risk of needing to cancel them.",
+                        "p1" : "But, like many people with HAE, this can result in you feeling socially isolated from family, friends, care partners, and employers. This can make the cycle of anxiety and depression worse.²"
+                    }
+                },
+                "family" : "HAE and your family"
+            },
+            "family" : {
+                "title" : "knowHAE | Hereditary angioedema (HAE) and family",
+                "topTitle" : "hereditary angioedema and your family",
+                "p1" : "Hereditary angioedema (HAE) usually runs in families, which is why it's called 'hereditary.' If one parent has HAE, each child will have a 50% risk of inheriting the condition. If a child does not inherit the disease, he or she will not pass it on to future generations.¹",
+                "p2" : "In a survey, people with HAE had an average of 2 immediate and 2 extended family members who had also been diagnosed with HAE.* This means that as a diagnosed patient, you may have family members who also have HAE.²",
+                "h5" : "Encourage your family members to talk to their doctors about getting tested for HAE.",
+                "p3" : "Because HAE is rare, some doctors may not be familiar with the condition. You can help empower your family members to discuss the condition with their doctors and encourage them to get tested. If a family member is interested in ﬁnding a doctor who knows about HAE, let them know there are experts who can help diagnose and treat HAE.³",
+                "findDoctor" : "Find a doctor near you",
+                "findDoctorAlt" : "*In a global survey of 313 people with HAE.²",
+                "supportHAE" : "Support for HAE"
+            },
+            "support" : {
+                "title" : "knowHAE | Hereditary angioedema (HAE) support",
+                "topTitle" : "support for hereditary angioedema",
+                "topAlt" : "Whether you live with hereditary angioedema (HAE) or you love someone with the condition, talking with other people who understand the challenges you face can be incredibly helpful. Connecting with people in the HAE community can help you discover new resources, build a support network, and ﬁnd encouragement when you need it.",
+                "learnMore" : "Learn more about the HAEi community and everything they have to offer",
+                "lovedTitle" : "Talk to your friends and loved ones",
+                "lovedAlt" : "Of course, your health information is a personal matter, but consider telling your close friends, family, and coworkers that you have HAE. Have an open and honest conversation with them so they know how to support you and what steps they should take in case of an emergency."
+            }
+        },
+        "hcp" : {
+            "symptoms" : {
+                "title" : "knowHAE | hereditary angioedema (HAE) signs, symptoms, causes",
+                "topTitle" : "what is hereditary angioedema?",
+                "topAlt" : "Get to know the signs and symptoms of hereditary angioedema (HAE) and how to identify the disease in your patients, so that together you can take action.",
+                "p1" : "HAE is a rare autosomal dominant disease aﬀecting approximately 1 in 50,000 individuals worldwide. <sup>1,3</sup>",
+                "p2" : "It causes spontaneous attacks of swelling in various parts of the body. <sup>3,4</sup>",
+                "h5" : "Attacks of swelling are unpredictable in frequency and severity, and they can be life threatening when they occur in the throat. <sup>4,5</sup>",
+                "goodtoknow" : "good to know",
+                "goodtoknowAlt" : "The disease burden of HAE may extend beyond attacks into everyday life. Due to its unpredictable nature, HAE can cause substantial emotional, psychosocial, and quality-of-life impairments for some patients and their caregivers. <sup>2,6</sup>",
+                "h4" : "Common HAE attack locations <sup>3,4</sup>",
+                "h3" : "what can cause hereditary angioedema attacks?",
+                "p3" : "There are several diﬀerent forms of HAE that are currently recognised and genetically identiﬁable. The two most common are:",
+                "blockquote1" : {
+                    "h4" : "C1-INH deﬁciency (Type 1 HAE, HAE-1):",
+                    "p" : "characterised by low antigenic and functional C1-INH levels"
+                },
+                "blockquote2" : {
+                    "h4" : "C1-INH dysfunction (Type 2 HAE, HAE-2):",
+                    "p" : "characterised by normal or elevated antigenic but low functional C1-INH levels"
+                },
+                "p4" : "Within the kallikrein-kinin system, C1-INH inhibits the production of bradykinin by interfering with plasma kallikrein activity. Dysregulation of plasma kallikrein activity within the kallikrein-kinin system leads to the cleavage of high-molecular-weight kininogen and excess bradykinin production, which can lead to attacks. <sup>7,8</sup>",
+                "types" : "Types of HAE <sup>4</sup>",
+                "p5" : "Other forms of HAE that do not involve mutations of C1-INH include, but are not limited to¹:",
+                "li1" : "F12 gene mutation (HAE-FXII)",
+                "li2" : "Angiopoietin-1 gene mutation (HAE-ANGPTI)",
+                "li3" : "Plasminogen gene mutation (HAE-PLG)",
+                "li4" : "Kininogen 1 (HAE-KNG1)",
+                "li5" : "Myoferlin (HAE-MYOF)",
+                "li6" : "Heparan sulfate-glucosamine 3-O-sulfotransferase 6 (HAE-HS3ST6)",
+                "li7" : "HAE unknown (HAE-UNK)",
+                "prodromal" : "triggers and prodromal symptoms of hereditary angioedema",
+                "prodromalAlt" : "While many occur with no identiﬁable trigger, some HAE attacks may be associated with <sup>9</sup>: ",
+                "prodromalUl" : {
+                    "li1" : "Emotional distress",
+                    "li2" : "Physical trauma",
+                    "li3" : "Changes in hormone levels",
+                    "li4" : "Infection",
+                    "li5" : "Medication",
+                    "li6" : "Exposure to cold",
+                    "li7" : "Non-traumatic tissue compression",
+                    "li8" : "Prolonged sitting or standing",
+                    "li9" : "Certain foods"
+                },
+                "predictive" : "Prodromes can be predictive of an attack in some cases and are often described as <sup>10-12</sup>: ",
+                "predictiveUl" : {
+                    "li1" : "Fatigue or malaise",
+                    "li2" : "Restlessness",
+                    "li3" : "Nausea",
+                    "li4" : "Joint pain",
+                    "li5" : "Cramps",
+                    "li6" : "Anxiety or mood changes"
+                },
+                "experience" : "The patient may also experience a prickling sensation, tightness in the skin, or nonpruritic rash called erythema marginatum. <sup>11-13</sup>",
+                "goodtoknowAlt2" : "Attack history is <em>not</em> a predictor of future attack frequency, severity, or location. <sup>5</sup>",
+                "diagnosing" : "Diagnosing HAE"
+            },
+            "diagnosing" : {
+                "title" : "knowHAE | Diagnosing hereditary angioedema (HAE)",
+                "topTitle" : "talking to your patients about the total impact of hereditary angioedema",
+                "topAlt" : "You strive to limit the impact of hereditary angioedema (HAE) on your patients. But how forthcoming are your patients on all the ways HAE affects them? Many patients may not even realise just how pervasive the negative impact of HAE can become. <sup>1</sup>",
+                "p1" : "To help assess the full impact of their HAE, consider asking your patients:",
+                "check" : {
+                    "a" : "How often do you worry about or plan around the unpredictability of a future attack?",
+                    "b" : "Have you limited your travel due to fear of an attack?",
+                    "c" : "Have you avoided social plans and other activities?",
+                    "d" : "Have you missed opportunities for educational or professional development?"
+                },
+                "managing" : "Managing HAE"
+            },
+            "treating" : {
+                "title" : "knowHAE | Treating hereditary angioedema (HAE)",
+                "topTitle" : "how is hereditary angioedema treated?",
+                "topAlt" : "If left untreated, hereditary angioedema (HAE) attacks gradually worsen over 12 to 24 hours and typically subside in 1 to 5 days. Treatment for HAE should be individualised to your patient’s needs and lifestyle to help reduce the burden of disease by preventing or attenuating attacks. <sup>1,2</sup>",
+                "h5" : "<strong>According to the 2021 International WAO/EAACI Treatment <br /> Guideline </strong>, HAE can be managed with:",
+                "collapse" : {
+                    "onDemand" : {
+                        "title" : "on-demand treatment",
+                        "p1" : "<strong>WAO/EAACI recommendations</strong><sup>3</sup><strong>:</strong>",
+                        "p2" : "We recommend that all attacks are:",
+                        "li1" : "Considered for on-demand treatment. We recommend that any attack aﬀecting or potentially aﬀecting the upper airway is treated.",
+                        "li2" : "Treated as early as possible.",
+                        "li3" : "Treated with either C1-INH, ecallantide*, or icatibant.",
+                        "p3" : "We recommend that all patients have sufficient medication for on-demand treatment of at least 2 attacks and carry on-demand medication at all times."
+                    },
+                    "shortTerm" : {
+                        "title" : "short-term preventive (prophylactic) therapy",
+                        "p1" : "<strong>WAO/EAACI recommendations</strong><sup>3</sup><strong>:</strong>",
+                        "p2" : "We recommend the use of intravenous plasma-derived C1 inhibitor as first-line short-term prophylaxis.",
+                        "p3" : "We recommend considering short-term prophylaxis before medical, surgical or dental procedures as well as exposure to other angioedema attack-inducing events.",
+                        "p4" : "We suggest considering prophylaxis prior to exposure to patient-specific angioedema-inducing situations."
+                    },
+                    "longTerm" : {
+                        "title" : "long-term preventive (prophylactic) therapy",
+                        "p1" : "<strong>WAO/EAACI recommendation</strong><sup>3</sup><strong>:</strong><br /> We recommend that patients are evaluated for long-term prophylaxis at every visit. Disease activity, burden, control, and patient preference should be taken into consideration. The goals of treatment are to achieve total control of the disease and to normalize patients' lives, which can currently only be achieved by long-term prophylaxis.",
+                        "p2" : "We recommend the use of lanadelumab, berotralstat, and plasma-derived C1-inhibitor as first-line, long-term prophylaxis."
+                    }
+                },
+                "em" : "Availability of therapies diﬀers by country.",
+                "latin" : "*Only available in the US and a few Latin American countries.",
+                "watch" : "Watch and learn:",
+                "highlights" : "A New View on Prevention &amp; On-Demand Therapy: Highlights from the 2021 International WAO/EAACI Guideline ",
+                "p1" : "Watch Dr Marcus Maurer review some updates to the treatment guideline.",
+                "p2" : "Please note that current treatment guidelines are for patients with Type 1 and Type 2 HAE only; the pathogenesis of other forms of HAE is not well-characterised, and therefore, therapeutic options may not be similarly eﬀective. <sup>4</sup>",
+                "managing" : "Get to know more about current treatment approaches",
+                "burden" : "I’m a healthcare provider who has patients with HAE"
+            },
+            "burden" : {
+                "title" : "knowHAE | The impact of hereditary angioedema (HAE)",
+                "topTitle" : "the burden of hereditary angioedema may persist beyond the attack",
+                "topAlt" : "You may already know the signs and symptoms of hereditary angioedema (HAE), but assessing its full impact on your patients may help inform treatment goals and planning.",
+                "h3" : "hereditary angioedema limits the way patients live their lives",
+                "p1" : "Even after the physical symptoms of an attack subside, a patient may still be aﬀected by HAE. For many, the anticipation of an HAE attack dictates what patients can or cannot do. <sup>1</sup>",
+                "p2" : "Due to the unpredictable nature of the disease, some patients reported high levels of distress and anxiety in everyday life. These feelings are attributed to <sup>1,2</sup>: ",
+                "li1" : {
+                    "a" : "Interrupted social life",
+                    "b" : "Disrupted educational aspirations",
+                    "c" : "Anxiety of future attacks",
+                    "d" : "Fear of passing HAE to their children"
+                },
+                "p3" : "In addition to absences and lost productivity, patients reported that HAE has hindered their career or education by <sup>5,6</sup>: ",
+                "li2" : {
+                    "a" : "Impacting educational choices*",
+                    "b" : "Preventing them from applying to certain jobs †",
+                    "c" : "Causing them to resign or switch positions within a company †"
+                },
+                "p4" : "Because of this, patients often forgo <sup>1,2</sup>: ",
+                "li3" : {
+                    "a" : "Travel and vacation",
+                    "b" : "Certain hobbies",
+                    "c" : "Sports and other physical activities",
+                    "d" : "Social events"
+                },
+                "p5" : "This goes beyond cancelling plans - some patients would not consider planning these activities in the ﬁrst place. <sup>1</sup>",
+                "goodtoknow" : "good to know",
+                "goodtoknowAlt" : "38% and 14% of patients with HAE had clinically meaningful anxiety and depression, respectively, vs global population rates of 3.6% and 4.4%. <sup>†</sup><sup>3,4</sup>",
+                "eu" : "*Based on the Work Productivity and Activity Impairment-General Health questionnaire (N=457), distributed in the United States from <br /> November 2007 to January 2008. <sup>6</sup> <br /> †Based on quantitative survey responses (N=186) in the 2011 Hereditary Angioedema Burden of Illness Study in Europe. <sup>3</sup>",
+                "angioedema" : "Reassessing the True Burden of Hereditary Angioedema",
+                "angioedemaAlt" : "See how you and your patients can uncover the burden of HAE",
+                "talking" : "Talking to your HAE patients"
+            },
+            "talking" : {
+                "title" : "knowHAE | Talking to patients with hereditary angioedema (HAE)",
+                "topTitle" : "talking to your patients about the total impact of hereditary angioedema",
+                "topAlt" : "You strive to limit the impact of hereditary angioedema (HAE) on your patients. But how forthcoming are your patients on all the ways HAE affects them? Many patients may not even realise just how pervasive the negative impact of HAE can become. <sup>1</sup>",
+                "p1" : "To help assess the full impact of their HAE, consider asking your patients:",
+                "check1" : "How often do you worry about or plan around the unpredictability of a future attack?",
+                "check2" : "Have you limited your travel due to fear of an attack?",
+                "check3" : "Have you avoided social plans and other activities?",
+                "check4" : "Have you missed opportunities for educational or professional development?",
+                "managing" : "Managing HAE"
+            },
+            "managing" : {
+                "title" : "knowHAE | Managing hereditary angioedema (HAE)",
+                "topTitle" : "creating a treatment plan to manage hereditary angioedema",
+                "topAlt" : "All patients with hereditary angioedema (HAE) should have an individualised treatment plan that is carefully developed to ﬁt their needs and lifestyle. Individualised treatment plans should address preventive measures, home care, and self-administration, as well as an effective emergency (on-demand) treatment plan with clear instructions on how best to use medications to treat HAE attacks. 1",
+                "h3" : "2021 International WAO/EAACI Guideline for Management of HAE",
+                "p1" : "It is recommended that all patients with HAE should be educated about possible triggers which may induce HAE attacks. <sup>1</sup>",
+                "collapse" : {
+                    "onDemand" : {
+                        "title" : "on-demand treatment",
+                        "li1" : "All attacks should be considered for on-demand treatment and treated as early as possible. Any attack potentially aﬀecting the upper airway should be treated <sup>1</sup>",
+                        "li2" : "Attacks can be treated with either intravenous C1 inhibitor, ecallanatide or icatibant. Ecallantide (kallikrein inhibitor) can be used to treat attacks but is only approved in the United States and a few Latin American countries <sup>1</sup>",
+                        "li3" : "All patients should have sufficient medication for on-demand treatment of at least 2 attacks and carry on-demand medication at all times <sup>1</sup>"
+                    },
+                    "treatment" : {
+                        "title" : "preventive treatment",
+                        "li1" : "<strong>Short-term prophylaxis:</strong> Case reports and series suggest that despite prophylaxis, swellings may occur even after relatively minor procedures. However, several reports document a reduction in the incidence of swelling for both adults and children with preprocedural prophylaxis, and the response appears to be dose related. Short-term prophylaxis before medical, surgical or dental procedures as well as exposure to other angioedema attack-inducing events is therefore recommended. <sup>1</sup>",
+                        "li2" : "<strong>Long-term prophylaxis:</strong> Consider for patients who face events in life that are associated with increased disease activity; patients should be evaluated for long-term prophylaxis at every visit, taking into account disease activity, burden, control, and patient preference. The goals of treatment are to achieve total control of the disease and to normalize patients' lives, which can currently only be achieved by long-term prophylaxis. <sup>1</sup>",
+                        "li3" : "Lanadelumab, berotralstat, and plasma-derived C1-inhibitor (C1-INH) are recommended as first-line, long-term prophylaxis. <sup>1</sup>"
+                    }
+                },
+                "goodtoknow" : "good to know",
+                "goodtoknowAlt" : "Androgens are only recommended as second-line treatment, with C1-INH as ﬁrst line. Androgens must be regarded critically, especially in light of their adverse androgenic and anabolic eﬀects, drug interactions, and contraindications. <sup>1</sup>",
+                "em" : "Availability of therapies diﬀers by country.",
+                "watch" : "Watch and learn:",
+                "h5" : "A New View on Prevention &amp; On-Demand Therapy: Highlights from the 2021 International WAO/EAACI Guideline",
+                "p2" : "Watch Dr Marcus Maurer review some updates to the treatment guideline.",
+                "p3" : "Please note that current treatment guidelines are for patients with Type 1 and Type 2 HAE only; the pathogenesis of other forms of HAE is not well-characterised, and therefore, therapeutic options may not be similarly eﬀective. <sup>1</sup>",
+                "identifying" : "Identifying HAE"
+            }
+        },
+        "utility" : {
+            "sitemap" : {
+                "title" : "Site map",
+                "h1" : "site map",
+                "h2" : "Site map",
+                "nav" : {
+                    "li1" : "Home",
+                    "li2" : {
+                        "title" : "what is HAE?",
+                        "li1" : "signs, symptoms, and causes",
+                        "li2" : "diagnosing HAE",
+                        "li3" : "treating HAE"
+                    },
+                    "li3" : {
+                        "title" : "living with HAE",
+                        "li1" : "impact of HAE",
+                        "li2" : "HAE and family",
+                        "li3" : "support for HAE"
+                    },
+                    "li4" : "For healthcare providers",
+                    "li5" : {
+                        "title" : "identifying HAE",
+                        "li1" : "signs, symptoms, and causes",
+                        "li2" : "diagnosing HAE",
+                        "li3" : "treating HAE"
+                    },
+                    "li6" : {
+                        "title" : "impact of HAE",
+                        "li1" : "burden of HAE",
+                        "li2" : "talking to patients",
+                        "li3" : "managing HAE"
+                    },
+                    "li7" : "contact us",
+                    "li8" : "privacy &amp; cookies policy",
+                    "li9" : "legal notice"
+                }
+            }
+        }
+
+    }
+}

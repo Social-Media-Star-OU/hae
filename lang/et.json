@@ -1,0 +1,477 @@
+{
+    "page" : {
+        "dialog" : {
+            "skip" : "Mine põhisisu juurde",
+            "top" : "See veebisait on mõeldud kasutajatele väljaspool USA-d ja Ühendkuningriiki."
+        },
+        "footer" : {
+            "ref" : {
+                "home" : "<section id='block-homepagereferencesblock' class='block block-block-content block-block-contentd4a86d31-2726-4365-8f1e-10c73e379075 clearfix'><div class='field field--name-body field--type-text-with-summary field--label-hidden field--item'><p></p><h5><strong>Viited</strong>: <strong> 1.</strong> Longhurst HJ, Bork K. Hereditary angioedema: causes, manifestations and treatment. <em>Br J Hosp Med (Lond)</em>. 2006;67(12):654-657. <strong>2.</strong> Banerji A, Busse P, Christiansen SC, et al. Current state of hereditary angioedema management: a patient survey. <em>Allergy Asthma Proc</em>. 2015;36:213-217.</h5></div></section>",
+                "patient" : {
+                    "symptoms" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-5796ee440999e9fc16e57364bc0e6bfc75900e86f5597c5601ff47b40675d06f'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Viited:</strong><strong> 1.</strong> Longhurst H, Cicardi M. Hereditary angioedema. Lancet. 2012;379(9814):474-481. <strong>2.</strong> Zuraw BL. Clinical practice. Hereditary angioedema. N Engl J Med. 2008;359(10):1027-1036. <strong>3. </strong>Longhurst H, Bygum A. The humanistic, societal, and pharmaco-economic burden of angioedema. Clin Rev Allerg Immunol. 2016;51(2):230-239. <strong>4. </strong>Bork K, Hardt J, Schicketanz KH, Ressel N. Clinical studies of sudden upper airway obstruction in patients with hereditary angioedema due to C1 esterase inhibitor deficiency. Arch Intern Med. 2003 May 26;163(10):1229-35. <strong>5.</strong> Farkas H, Martinez-Saguer I, Bork K, et al. International consensus on the diagnosis and management of pediatric patients with hereditary angioedema with C1 inhibitor deﬁciency. Allergy. 2017;72(2):300-313. <strong>6.</strong> Zuraw BL, Banerji A, Bernstein JA, Busse PJ, Christiansen SC, Davis-Lorton M, Frank MM, Li HH, Lumry WR, Riedl M; US Hereditary Angioedema Association Medical Advisory Board. US Hereditary Angioedema Association Medical Advisory Board 2013 recommendations for the management of hereditary angioedema due to C1 inhibitor deficiency. J Allergy Clin Immunol Pract. 2013 Sep-Oct;1(5):458-67. <strong>7. </strong>Miranda AR, Ue AP, Sabbag DV, Furlani Wde J, Souza PK, Rotta O. Hereditary angioedema type III (estrogen-dependent) report of three cases and literature review. An Bras Dermatol. 2013 Jul-Aug;88(4):578-84. <strong>8.</strong> Bork K, Barnstedt SE, Koch P, Traupe H. Hereditary angioedema with normal C1-inhibitor activity in women. Lancet. 2000 Jul 15;356(9225):213-7. <strong>9.</strong> Agostoni A, Aygören-Pürsün E, Binkley KE, Blanch A, Bork K, Bouillet L, Bucher C, Castaldo AJ, Cicardi M, Davis AE, De Carolis C, Drouet C, Duponchel C, Farkas H, Fáy K, Fekete B, Fischer B, Fontana L, Füst G, Giacomelli R, Gröner A, Hack CE, Harmat G, Jakenfelds J, Juers M, Kalmár L, Kaposi PN, Karádi I, Kitzinger A, Kollár T, Kreuz W, Lakatos P, Longhurst HJ, Lopez-Trascasa M, Martinez-Saguer I, Monnier N, Nagy I, Németh E, Nielsen EW, Nuijens JH, O'grady C, Pappalardo E, Penna V, Perricone C, Perricone R, Rauch U, Roche O, Rusicke E, Späth PJ, Szendei G, Takács E, Tordai A, Truedsson L, Varga L, Visy B, Williams K, Zanichelli A, Zingale L. Hereditary and acquired angioedema: problems and progress: proceedings of the third C1 esterase inhibitor deficiency workshop and beyond. J Allergy Clin Immunol. 2004 Sep;114(3 Suppl):S51-131.</h5></div></div></div></div></div></div></section>",
+                    "diagnosing" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-1794582b041ad1df1b804426a2568c3daeacbc9d7bfdd63b4c0900b77220ae37'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Viited: 1.</strong> Longhurst H, Bygum A. The humanistic, societal, and pharmaco-economic burden of angioedema. Clin Rev Allerg Immunol. 2016;51(2):230-239. <strong>2.</strong> Maurer M, Magerl M, Betschel S, et al. The international WAO/EAACI guideline for the management of hereditary angioedema-The 2021 revision and update. Allergy. 2022;77(7):1961-1990. <strong>3.</strong> Pappalardo E, Cicardi M, Duponchel C, Carugati A, Choquet S, Agostoni A, Tosi M. Frequent de novo mutations and exon deletions in the C1inhibitor gene of patients with angioedema. J Allergy Clin Immunol. 2000 Dec;106(6):1147-54.</h5></div></div></div></div></div></div></section>",
+                    "treating" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block js-view-dom-id-803ff5765ca50aaf6e1e60ac7737843bd34f4f54be2e226fcb8801e16a78f5a2'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Viited: 1. </strong>Maurer M, Magerl M, Betschel S, et al. The international WAO/EAACI guideline for the management of hereditary angioedema-The 2021 revision and update. Allergy. 2022;77(7):1961-1990. <strong>2.</strong> Zuraw BL. Clinical practice. Hereditary angioedema. N Engl J Med. 2008;359(10):1027-1036. <strong>3.</strong> Busse PJ, Christiansen SC, Riedl MA, Banerji A, Bernstein JA, Castaldo AJ, et al. US HAEA Medical Advisory Board 2020 guidelines for the management of hereditary angioedema.  <em>J Allergy Clin Immunol Pract</em>. (2021) 9(1):132–50. <strong>4.</strong> Bork K, Hardt J, Schicketanz KH, Ressel N. Clinical studies of sudden upper airway obstruction in patients with hereditary angioedema due to C1 esterase inhibitor deficiency. Arch Intern Med. 2003 May 26;163(10):1229-35.</h5></div></div></div></div></div></div></section>",
+                    "impact" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-a4d55bba147385ff4839a103b1e13b55fdb5855032dcdeaab8b6cf8cf562bd90'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Viited: 1.</strong> Longhurst H, Cicardi M. Hereditary angioedema. Lancet. 2012;379(9814):474-481. <strong>2.</strong> Bygum A, Aygören-Pürsün E, Beusterien K, et al. Burden of illness in hereditary angioedema: a conceptual model. Acta Derm Venereol. 2015;95(6):706-710. <strong>3.</strong> Longhurst H, Bygum A. The humanistic, societal, and pharmaco-economic burden of angioedema. Clin Rev Allerg Immunol. 2016;51(2):230-239. <strong>4.</strong> Caballero T, Aygören-Pürsün E, Bygum A, Beusterien K, Hautamaki E, Sisic Z, Wait S, Boysen HB. The humanistic burden of hereditary angioedema: results from the Burden of Illness Study in Europe. Allergy Asthma Proc. 2014 Jan-Feb;35(1):47-53. <strong>5.</strong> Depression and Other Common Mental Disorders: Global Health Estimates. Geneva: World Health Organization; 2017. Licence: CC BY-NC-SA 3.0 IGO. <strong>6.</strong> Lumry WR, Castaldo AJ, Vernon MK, Blaustein MB, Wilson DA, Horn PT. The humanistic burden of hereditary angioedema: Impact on health-related quality of life, productivity, and depression. Allergy Asthma Proc. 2010;31(5):407-414. <strong>7.</strong> Kuman Tunçel Ö, Gökmen NM, Demir E, Gülbahar O, Pırıldar Ş. The impact of hereditary angioedema on quality of life and family planning decisions. Int J Psychiatry Med. 2019;54(6):377-394. <strong>8.</strong> Aygören-Pürsün E, Bygum A, Beusterien K, et al. Socioeconomic burden of hereditary angioedema: results from the hereditary angioedema burden of illness study in Europe. Orphanet J Rare Dis. 2014;9:99.</h5></div></div></div></div></div></div></section>",
+                    "hae" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-77b0f4470febad0c2afbb37f28f777f9edc8f937ead53caa31fcdbee3c87e816'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Viited: 1. </strong>Maurer M, Magerl M, Betschel S, et al. The international WAO/EAACI guideline for the management of hereditary angioedema-The 2021 revision and update. Allergy. 2022;77(7):1961-1990. <strong>2.</strong> Lunn ML, Santos CB, Craig TJ. Is there a need for clinical guidelines in the United States for the diagnosis of hereditary angioedema and the screening of family members of affected patients?. Ann Allergy Asthma Immunol. 2010;104(3):211-214. <strong>3.</strong> Longhurst H, Bygum A. The humanistic, societal, and pharmaco-economic burden of angioedema. Clin Rev Allerg Immunol. 2016;51(2):230-239.</h5></div></div></div></div></div></div></section>",
+                    "support" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-bf6ed7275bc96eb0b422fd33a2777abe7061180e1d8688cc56ee58e30022711c'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'></div></div></div></div></div></div></section>"
+                },
+                "hcp" : {
+                    "symptoms" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-26c66fb7c6b796cbad79f63a75482916a5f3e3218ba21fed4fb6a6ec173ad488'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Viited:</strong><strong> 1. </strong>Maurer M, Magerl M, Betschel S, et al. The international WAO/EAACI guideline for the management of hereditary angioedema-The 2021 revision and update. Allergy. 2022;77(7):1961-1990. <strong>2. </strong>Longhurst H, Bygum A. The humanistic, societal, and pharmaco-economic burden of angioedema. Clin Rev Allerg Immunol. 2016;51(2):230-239. <strong>3.</strong> Longhurst HJ, Bork K. Hereditary angioedema: causes, manifestations and treatment. Br J Hosp Med (Lond). 2006;67(12):654-657. <strong>4.</strong> Banerji A, Busse P, Christiansen SC, et al. Current state of hereditary angioedema management: a patient survey. Allergy Asthma Proc. 2015;36(3):213-217. <strong>5.</strong> Farkas H, Martinez-Saguer I, Bork K, et al. International consensus on the diagnosis and management of pediatric patients with hereditary angioedema with C1 inhibitor deﬁciency. Allergy. 2017;72(2):300-313. <strong>6.</strong> Bygum A, Aygören-Pürsün E, Beusterien K, et al. Burden of illness in hereditary angioedema: a conceptual model. Acta Derm Venereol. 2015;95(6):706-710. <strong>7.</strong> Longhurst H, Cicardi M. Hereditary angioedema. Lancet. 2012;379(9814):474-481. <strong>8.</strong> Suffritti C, Zanichelli A, Maggioni L, Bonanni E, Cugno M, Cicardi M. High-molecular-weight kininogen cleavage correlates with disease states in the bradykinin-mediated angioedema due to hereditary C1-inhibitor deﬁciency. Clin Exp Allergy. 2014;44(12):1503-1514. <strong>9. </strong>Caballero T, Maurer M, Longhurst HJ, et al. Triggers and prodromal symptoms of angioedema attacks in patients with hereditary angioedema. J Investig Allergol Clin Immunol. 2016;26(6):383-386. <strong>10.</strong> Prematta MJ, Kemp JG, Gibbs JG, Mende C, Rhoads C, Craig TJ. Frequency, timing, and type of prodromal symptoms associated with hereditary angioedema attacks. Allergy Asthma Proc. 2009;30(5):506-511. <strong>11.</strong> Rasmussen ER, de Freitas PV, Bygum A. Urticaria and prodromal symptoms including erythema marginatum in Danish patients with hereditary angioedema. Acta Derm Venereol. 2016;96(3): 373-376. <strong>12.</strong> Magerl M, Doumoulakis G, Kalkounou I, et al. Characterization of prodromal symptoms in a large population of patients with hereditary angio-oedema. Clin Exp Dermatol. 2014;39(3);298-303. <strong>13. </strong>Johnston D. Diagnosis and management of hereditary angioedema. J Am Osteopath Assoc. 2011;111(1):28-36. <strong>14.</strong> Zuraw BL. Clinical practice. Hereditary angioedema. N Engl J Med. 2008;359(10):1027-1036. <strong>15.</strong> Aygören-Pürsün E, Bygum A, Beusterien K, et al. Socioeconomic burden of hereditary angioedema: results from the hereditary angioedema burden of illness study in Europe. Orphanet J Rare Dis. 2014;9:99. <strong>16.</strong> Lunn ML, Santos CB, Craig TJ. Is there a need for clinical guidelines in the United States for the diagnosis of hereditary angioedema and the screening of family members of affected patients?. Ann Allergy Asthma Immunol. 2010;104(3):211-214.</h5></div></div></div></div></div></div></section>",
+                    "diagnosing" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-69e1dbe3844a9586be10a641c060dbf8dadeb90305322f750040ca4146d2cfe4'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Viited: 1.</strong> Maurer M, Magerl M, Betschel S, et al. the international WAO/EAACI guideline for the management of hereditary angioedema-The 2021 revision and update. Allergy. 2022;77(7):1961-1990. <strong>2.</strong> Zuraw BL. Clinical Practice. Hereditary angioedema. N Engl J Med. 2008;359(10):1027-1036. <strong>3.</strong> Cicardi M, Aberer W, Banerji A, et al. Classiﬁcation, diagnosis, and approach to treatment for angioedema: consensus report from the Hereditary Angioedema International Working Group. Allergy. 2014;69(5):602-616. <strong>4.</strong> Zuraw B. Hereditary angioedema with normal C1 inhibitor. Four types and counting. J Allergy Clin Immunol. 2018;141(3): 884-885. 5. Zanichelli A, Longhurst HJ, Maurer M, et al. Misdiagnosis trends in patients with hereditary angioedema from the real-world clinical setting. Ann Allergy Asthma Immunol. 2016;117(4):394-398. <strong>6.</strong> Patel N, Suarez LD, Kapur S, Bielory L. Hereditary angioedema and gastrointestinal complications: an extensive review of the literature. Case Reports Immunol. 2015;2015:925861. <strong>7.</strong> Bork K, Hardt J, Witzke G. Fatal laryngeal attacks and mortality in hereditary angioedema due to C1-INH deﬁciency. J Allergy Clin Immunol. 2012;130(3):692-697. <strong>8.</strong> Longhurst H, Bygum A. The humanistic, societal, and pharmaco-economic burden of angioedema. Clin Rev Allerg Immunol. 2016;51(2):230-239.</h5></div></div></div></div></div></div></section>",
+                    "treating" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-637b0f97e199b5babcaf2282fed85e94bd214e0f00be3252926dff770518582b'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Viited: 1. </strong>Bygum A, Aygören-Pürsün E, Beusterien K, et al. Burden of illness in hereditary angioedema: a conceptual model. Acta Derm Venereol. 2015;95(6): 706-710. <strong>2.</strong> Longhurst H, Cicardi M. Hereditary angioedema. Lancet. 2012;379(9814):474-481. <strong>3.</strong> Maurer M, Magerl M, Betschel S, et al. the international WAO/EAACI guideline for the management of hereditary angioedema-The 2021 revision and update. Allergy. 2022;77(7):1961-1990. <strong>4.</strong> Grumach A, Gadir N, Kessel A and Yegin A, Current challenges and future opportunities in patient-focused management of hereditary angioedema: A narrative review. Clinical and Translational Allergy. 2023;13(5).</h5></div></div></div></div></div></div></section>",
+                    "burden" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-95dfc68dd07331ba14c2869939c1a812e53bac8889a8c37281f093e09f21e514'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Viited: 1.</strong> Bygum A, Aygören-Pürsün E, Beusterien K, et al. Burden of illness in hereditary angioedema: a conceptual model. Acta Derm Venereol. 2015;95(6): 706-710. <strong>2.</strong> Longhurst H, Bygum A. The humanistic, societal, and pharmaco-economic burden of angioedema. Clin Rev Allerg Immunol. 2016;51(2):230-239. <strong>3.</strong> Caballero T, Aygören-Pürsün E, Bygum A, et al. The humanistic burden of hereditary angioedema: results from the Burden of Illness Study in Europe. Allergy Asthma Proc. 2014;35(1):47-53. <strong>4.</strong> World Health Organization. Depression and Other Common Mental Disorders: Global Health Estimates. Geneva, Switzerland: WHO Document Production Services; 2017. <strong>5.</strong> Aygören-Pürsün E, Bygum A, Beusterien K, et al. Socioeconomic burden of hereditary angioedema: results from the hereditary angioedema burden of illness study in Europe. Orphanet J Rare Dis. 2014;9:99. <strong>6.</strong> Lumry W, Castaldo A, Vernon M, Blaustein MB, Wilson DA, Horn PT. The humanistic burden of hereditary angioedema: impact on health-related quality of life, productivity, and depression. Allergy Asthma Proc. 2010;31(5):407-414.</h5></div></div></div></div></div></div></section>",
+                    "talking" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-e0f085028139453da0b24eec44cc2912689bbb13afb2023da782bdfed332b507'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Viited: 1.</strong> Bygum A, Aygören-Pürsün E, Beusterien K, et al. Burden of illness in hereditary angioetients with hereditary angioedema (HAE)dema: a conceptual model. Acta Derm Venereol. 2015;95(6): 706-710.</h5></div></div></div></div></div></div></section>",
+                    "managing" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-73418af1a230634e877dea5e54cfa6f85ba3f2f9b2cc82156705c5f69c27b345'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Viited: 1.</strong> Maurer M, Magerl M, Betschel S, et al. the international WAO/EAACI guideline for the management of hereditary angioedema-The 2021 revision and update. Allergy. 2022;77(7):1961-1990.</h5></div></div></div></div></div></div></section>"
+                },
+                "sitemap" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-4064c4e322daef38f62d6fcaa47278b1362a82cf6e9c2c17f6a37dadb0d25cdf'></div></div></section>"
+            },
+            "outside" : "See veebisait on mõeldud kasutajatele väljaspool USA-d ja Ühendkuningriiki.<br><br>",
+            "References" : "Viited",
+            "treatment" : "Longhurst HJ, Bork K. Hereditary angioedema: causes, manifestations and treatment.",
+            "em" : "Br J Hosp Med (Lond)",
+            "2006" : "2006;67(12):654-657.",
+            "state" : "Banerji A, Busse P, Christiansen SC, et al. Current state of hereditary angioedema management: a patient survey.",
+            "em2" : "Allergy Asthma Proc",
+            "2015" : ". 2015;36:213-217.",
+            "footerMenu" : "Footer menu",
+            "sitemap" : "Lehekülje kaart",
+            "privacy" : "Privaatsus- & küpsiste kasutamise põhimõtted",
+            "legal" : "Õigusteave",
+            "contact" : "Võtke meiega ühendust",
+            "copy1" : "See veebisait on mõeldud kasutajatele väljaspool USA-d ja Ühendkuningriiki. Veebisaidi töötas välja Takeda kooskõlas tööstus- ja õigusstandarditega. Takeda teeb kõik mõistlikud jõupingtutused täpse ja värske teabe lisamiseks. Veebisaidil esitatud teave ei ole siiski ammendav, seda ei tohiks kasutada arsti või muu tervishoiutöötaja külastuse, kõne, konsultatsiooni või nõuannete asemel. Takeda ei soovita terviseprobleemidega ise hakkama saada. Kui teil on tervishoiuga seotud küsimusi, helistage või pöörduge viivitamatult oma arsti või muu tervishoiutöötaja poole. Te ei tohiks kunagi jätta tähelepanuta arsti nõuandeid ega viivitada selle otsimisega siin loetu tõttu.",
+            "copy2" : "Copyright © 2024 Takeda Pharmaceutical Company Limited. Kõik õigused on kaitstud. C-ANPROM/EE/HAE/0014 September 2024",
+            "cookieTitle" : "Sait kasutab küpsiseid. Saidi kasutamise jätkamisega nõustute meie küpsiste kasutamisega.",
+            "cookieFind" : "Uuri lähemalt"
+        },
+        "navbar" : {
+            "patient" : {
+                "dropdown" : {                   
+                    "title" : "Patsiendi menüü",
+                    "WhatIsHAE" : {
+                        "title" : "Mis on HAE?",
+                        "symptoms" : "Nähud, sümptomid ja põhjused",
+                        "symptomsA" : "patsient/mis-on-hae/nahud-sumptomid-ja-pohjused",
+                        "diagnosing" : "HAE diagnoosimine",
+                        "diagnosingA" : "patsient/mis-on-hae/hae-diagnoosimine",
+                        "treating" : "HAE ravimine",
+                        "treatingA" : "patsient/mis-on-hae/hae-ravimine"
+                    },
+                    "LivingWithHAE" : {
+                        "title" : "HAE-ga elamine",
+                        "impact" : "HAE mõju",
+                        "impactA" : "patsient/hae-ga-elamine/hae-moju",
+                        "family" : "HAE ja perekond",
+                        "familyA" : "patsient/hae-ga-elamine/hae-ja-perekond",
+                        "support" : "HAE tugi",
+                        "supportA" : "patsient/hae-ga-elamine/hae-tugi"
+                    }
+                },
+                "contact" : "HAE diagnostikakeskuste kontaktid",
+                "contactA" : "utiliit/kontaktid",
+                "utilityMenu" : "Patsiendi utiliidi menüü",
+                "prof" : "Tervishoiuteenuse osutajatele",
+                "language" : "Eesti"
+            },
+            "hcp" : {
+                "dropdown" : {
+                    "title" : "HCP menüü",
+                    "identifying" : {
+                        "title" : "HAE tuvastamine",
+                        "symptoms" : "Nähud, sümptomid ja põhjused",
+                        "symptomsA" : "hcp/hae-tuvastamine/nahud-sumptomid-ja-pohjused",
+                        "diagnosing" : "HAE diagnoosimine",
+                        "diagnosingA" : "hcp/hae-tuvastamine/hae-diagnoosimine",
+                        "treating" : "HAE ravimine",
+                        "treatingA" : "hcp/hae-tuvastamine/hae-ravimine"
+                    },
+                    "impact" : {
+                        "title" : "HAE mõju",
+                        "burden" : "HAE haiguskoormus",
+                        "burdenA" : "hcp/hae-moju/hae-haiguskoormus",
+                        "patients" : "Patsientidega vestlemine",
+                        "patientsA" : "hcp/hae-moju/patsientidega-vestlemine",
+                        "managing" : "HAE ravimine",
+                        "managingA" : "hcp/hae-moju/hae-ravimine"
+                    }
+                },
+                "contact" : "HAE diagnostikakeskuste kontaktid",
+                "contactA" : "utiliit/kontaktid",
+                "utilityMenu" : "Patsiendi utiliidi menüü",
+                "prof" : "Patsientidele ja hooldajatele",
+                "language" : "Eesti"
+            },
+            "utility" : {
+                "language" : "Eesti"
+            }
+        }, 
+        "index" : {
+           "title" : "Avaleht - knowHAE", 
+           "language" : "Eesti",
+           "sliderPrevious" : "Eelmine",
+           "sliderNext" : "Järgmine",
+           "WhatIsHAE" : "Mis on HAE?",
+           "WhatIsHAEDesc" : "Õppige tundma HAE sümptomeid, nagu juhuslik turse ja valu",
+           "LivingWithHAE" : "HAE-ga elamine",
+           "LivingWithHAEDesc" : "Tutvuge, kuidas HAE võib mõjutada teid ja teie peret ning kuidas sellega toime tulla",
+           "HealthCareProvider" : "Olen tervishoiuteenuse osutaja",
+           "IdentifyingHAE" : "HAE tuvastamine",
+           "IdentifyingHAEDesc" : "Õppige ära tundma HAE - harvaesineva ja sageli valesti diagnoositava haiguse - nähtusid",
+           "ManagingHAE" : "HAE ravimine",
+           "ManagingHAEDesc" : "Tutvuge, kuidas HAE mõjub emotsionaalselt ja palju muud"
+        },
+        "patient" : {
+            "diagnosing" : {
+                "title" : "knowHAE | Päriliku angioödeemi (HAE) diagnoosimine",
+                "topTitle" : "Kuidas pärilikku angioödeemi diagnoositakse?",
+                "topAlt" : "Diagnoosi saamine algab oma arstiga vestlemisest. Kuna pärilik angioödeem (HAE) on harvaesinev, on sellest kuulnud vähesed inimesed, sealhulgas arstid. Tegelikult ei kohta paljud arstid kunagi HAE-ga patsienti. Seepärast valmistab täpse diagnoosi saamine raskusi.",
+                "appointment" : "Mida oodata oma arsti vastuvõtul?",
+                "appointmentAlt" : "Kui arsti arvates võib teil olla HAE, küsib ta tõenäoliselt teie sümptomite ja selle kohta, millal te neid esmakordselt märkasite. Kuna HAE pärandub tavaliselt edasi sugulaselt sugulasele, küsib teie arst tõenäoliselt ka seda, kas kellelgi teie perekonnas esineb turseepisoode või on diagnoositud HAE.",
+                "goodtoknow" : "Hea teada",
+                "goodtoknowAlt" : "Teil võib olla HAE isegi siis, kui ühelgi teisel teie pereliikmetest seda pole. Üks neljast HAE juhust on tekkinud spontaanse geenimutatsiooni tagajärjel.",
+                "testHAE" : "HAE diagnoosi kinnitavad testid",
+                "testHAEalt" : "Kui arst kahtlustab, et teil võib olla HAE, võetakse diagnoosi kinnitamiseks tavaliselt vereproov. Selles mõõdetakse C1-INH valgu sisaldust. Samuti vaadatakse muud teavet, nt teie sümptomeid, teie reaktsiooni teatud ravimitele ja teie perekondlikku soodumust.",
+                "booklet" : "HAE brošüür",
+                "bookletAlt" : "Kas kahtlustate, et teil, teie pereliikmel või tuttaval on pärilik angioödeem? Laadige alla see brošüür, et saada lisateavet haiguse kohta.",
+                "download" : "Laadi brošüür alla (inglise keeles)",
+                "HAEtreated" : "Kuidas HAE-d ravitakse?"
+            },
+            "symptoms" : {
+                "title" : "knowHAE | Päriliku angioödeemi (HAE) nähud, sümptomid, põhjused",
+                "skip" : "Mine põhisisu juurde",
+                "headerTop" : "See veebisait on mõeldud kasutajatele väljaspool USA-d ja Ühendkuningriiki.",
+                "topTitle" : "Mis on pärilik angioödeem?",
+                "topAlt" : "Pärilik angioödeem (HAE) on harvaesinev geneetiline häire. Arvatakse, et kogu maailmas esineb HAE-d ainult ühel inimesel 50 000st.",
+                "hereditary" : "Päriliku angioödeemi nähud ja sümptomid",
+                "hereditaryAlt" : "HAE võib põhjustada valulikke ja ootamatuid turseid ükskõik millises kehaosas. Need HAE “atakid” võivad tekkida ootamatult ja kesta päevi. Atakiga kaasnev valu ja turse võivad mõjutada teovõimet, mistõttu on igapäevatoimetuste tegemine raske. See võib muuta elamise HAE-ga füüsiliselt ja emotsionaalselt raskeks.",
+                "hereditaryAttacks" : "Atakid võivad ilmneda ükskõik millises kehaosas, kuid levinumad tursekohad on:",
+                "bullets" : {
+                    "a" : "kõht",
+                    "b" : "nägu",
+                    "c" : "kõri",
+                    "d" : "suguelundid",
+                    "e" : "käelabad",
+                    "f" : "jalalabad"
+                },
+                "swelling" : "Kõriturse võib olla eluohtlik, sest võib põhjustada lämbumist. Kui teil on kõri mõjutav atakk, peaksite viivitamata pöörduma erakorralise meditsiini osakonda.",
+                "unpredictable" : "HAE võib olla ettearvamatu",
+                "unpredictableAlt" : "HAE sümptomid võivad olla erinevatel inimestel ning isegi samal inimesel väga erinevad. Näiteks võib mõnel HAE-ga inimesel esineda atakke sagedamini murdeeas. Või sellel, kellel tavaliselt tekib kõhuturse, võib esineda atakke kõri piirkonnas või mujal.",
+                "goodtoknow" : "Hea teada",
+                "goodtoknowAlt" : "HAE atakk võib alata ühest kohast ja levida teise.",
+                "worse1" : "HAE atakid võivad ravimata jätmise korral kesta päevi. Tavaliselt turse süveneb 24 tunni jooksul ning seejärel taandub aeglaselt järgmise 48-72 tunni jooksul.",
+                "worse2" : "Mõnedel inimestel esineb enne atakki kihelustunne. Samuti võivad nad täheldada enne turse algust mittesügelevat löövet, mis ei ole nahapinnast kõrgemal.",
+                "angioedema" : "Mis põhjustab pärilikku angioödeemi?",
+                "angioedemaAlt" : "1. ja 2. tüüpi HAE-ga inimestel on vähetoimiv C1-esteraasi inhibiitor (C1-INH) ja selle plasmatase madal (HAE tüüp 1) või normaalne/kõrgenenud (HAE tüüp 2).",
+                "angioedemaAlt2" : "Kui pole piisavalt funktsionaalset C1-INH-t, muutub teine valk ehk plasma kallikreiin üliaktiivseks. Liiga suur plasma kallikreiini aktiivsus põhjustab bradükiniini - atakki põhjustava aine - liigtootmist.",
+                "angioedemaAlt3" : "Samuti võivad inimestel esineda kliinilised sümptomid, mida ei saa eristada 1. ja 2. tüübist ning mille korral plasmatase on normaalne ja C1-INH toimib. Seda nimetatakse HAE-ks normaalse C1-INH tasemega (HAE nC1-INH), mida varem nimetati HAE tüübiks 3.",
+                "HAEattacks" : "Mis põhjustab HAE atakke?",
+                "HAEattacksAlt" : "HAE atakke käivitab mõnikord vallandav tegur. HAE võib olla inimesiti suuresti erinev, seega teie vallandavad tegurid võivad väga palju erineda kellegi teise omadest. Näiteks, mõned inimesed võivad kogeda HAE atakki füüsilise trauma, nt jalgrattalt kukkumise või hambaraviprotseduuri tõttu. Teistel võib HAE atakki esile kutsuda mõni lihtne korduv liigutus, nt kääridega lõikamine.",
+                "attackTriggers" : "Mõned levinud HAE hoogu vallandavad tegurid on:",
+                "attackTriggersIcon1" : "Emotsionaalne pinge",
+                "attackTriggersIcon2" : "Kerge vigastus, operatsioon või hambaraviprotseduur",
+                "attackTriggersIcon3" : "Infektsioon",
+                "attackTriggersIcon4" : "Hormonaalsed mõjud, nt menstruatsioon või teatud rasestumisvastased vahendid",
+                "attackTriggersIcon5" : "Füüsilised tegevused nagu muru niitmine või kääridega lõikamine",
+                "HAEdiagnosed" : "Kuidas HAE-d diagnoositakse?"
+            },
+            "treating" : {
+                "title" : "knowHAE | Päriliku angioödeemi (HAE) ravi",
+                "topTitle" : "Kuidas pärilikku angioödeemi ravitakse?",
+                "topAlt" : "Oma arstiga vestlemisel oleks kasulik küsida päriliku angioödeemi (HAE) erinevate ravivõmaluste kohta. Nende võimaluste hulka kuuluvad ennetus- ja vajaduspõhine ravi.",
+                "preventive" : "HAE ennetusravi",
+                "preventiveAlt" : "HAE ennetusravi nimetatakse ka profülaktiliseks raviks. See hõlmab ravimi regulaarset manustamist, et teil esineks vähem atakke ja et need oleksid kergemad.",
+                "onDemand" : "HAE vajaduspõhine ravi",
+                "onDemandAlt" : "HAE vajaduspõhise ravi puhul kasutatakse ravimit HAE ataki sümptomite ravimiseks.¹ See on tuntud ka kui akuutravi.",
+                "aﬀects" : "Kõigil HAE-ga inimestel ei esine hingamisteid mõjutavat atakki, kuid see on risk. Kuna sellised atakid võivad olla eluohtlikud, soovitavad juhtivad terviseorganisatsioonid, et kõigile HAE-ga inimestele oleks vajaduspõhine ravi kättesaadav. Kui teil on HAE, on oluline vestelda oma arstiga vajaduspõhisest ravist.",
+                "talkDoctor" : "Vestelge oma arstiga teile kättesaadavatest ravivõimalustest.",
+                "goodtoknow" : "Hea teada",
+                "goodtoknowAlt" : "Kuna HAE võib mõjutada inimesi erinevalt, on oluline teha tihedat koostööd oma arstiga, et leida just teile sobiva raviplaani.",
+                "living" : "HAE-ga elamine"
+            },
+            "impact" : {
+                "title" : "knowHAE | Päriliku angioödeemi (HAE) mõju",
+                "topTitle" : "Päriliku angioödeemiga elamine",
+                "topAlt" : "Päriliku angioödeemiga (HAE) elamine pole alati kerge. HAE atakk võib tähendada enamat kui igapäevase rutiini segamine. See võib olla füüsiliselt ja emotsionaalselt valulik, mõnikord hirmutav ja isegi eluohtlik.",
+                "worry" : "Nagu mõned HAE-ga inimesed, võite ka teie leida end muretsemas järgmise ataki alguse pärast. Seepärast võite vältida asju, mis teiste jaoks võivad olla enesestmõistetavad, näiteks:",
+                "icon1" : "Plaanide tegemine",
+                "icon2" : "Reisimine või puhkusele minek",
+                "icon3" : "Teatud toitude söömine",
+                "icon4" : "Füüsiliselt aktiivne olemine",
+                "goodtoknow" : "Hea teada",
+                "goodtoknowAlt" : "Nende probleemidega silmitsi seismisel on olemas lootus. Vestelge oma tervishoiuteenuse osutajaga sellest, millist mõju HAE teile avaldab ja kuidas sellega toime tulla.",
+                "attacks" : "Olenemata sellest, kas teil esinevad atakid sageli või korra paari kuu tagant, HAE negatiivset mõju võib tunda isegi pärast seda, kui atakiga kaasnev füüsiline turse ja valu on möödas.",
+                "collapse" : {
+                    "a" : {
+                        "title" : "HAE emotsionaalne mõju",
+                        "strong" : "On normaalne tunda mõnikord kurbust ja muret. Ent kas te teadsite seda, et HAE-ga inimestel on ärevuse ja depressiooni tasemed kõrgemad?",
+                        "p1" : "Üleilmses uuringus esines HAE-ga inimestel kolm korda tõenäolisemalt depressiooni ja 10 korda tõenäolisemalt ärevust tavapopulatsiooniga võrreldes. <sup>4, 5, 6, 7 </sup>",
+                        "p2" : "Ärevuse põhjused olid tavaliselt järgmised:²",
+                        "li1" : "hirm uue ataki ees, sh raske kõri atakkide ees;",
+                        "li2" : "kodust kaugele reisimine;",
+                        "li3" : "hooldajate, sõprade ja perekonna tajutud koorem;",
+                        "li4" : "HAE edasiandmine lastele."
+                    },
+                    "b" : {
+                        "title" : "HAE mõju koolile ja tööle",
+                        "strong" : "Peaaegu pooled Euroopa uuringu vastanutest teatasid, et HAE on hoidnud neid koolis ja tööl tagasi.⁸",
+                        "p1" : "See on midagi enamat kui lihtsalt puudumine atakkide ajal. Eraldi uuringus teatasid mõned HAE-ga inimesed, et nad kogesid järgmist:²",
+                        "li1" : "karjäärivalikud piirduvad sageli osalise tööajaga võimalustega;",
+                        "li2" : "väiksem tööviljakus ja töölt puudumine;",
+                        "li3" : "töökohal mõistmise ja toe puudumine;",
+                        "li4" : "tagasilöögid karjääris;",
+                        "li5" : "hirm töö kaotamise ees.",
+                        "p2" : "See mõju suureneb atakkide sagenedes.²"
+                    },
+                    "c" : {
+                        "title" : "HAE mõju teie seltskonnaelule",
+                        "strong" : "Kui muretsete järgmise ataki pärast, ei pruugi te nõustuda tegema asju koos oma pere ja sõpradega, nagu nt väljasõit või õhtusöögi korraldamine. Lõppude lõpuks, kui te jätate plaanid üldse tegemata, väldite nende tühistamise vajaduse riski.",
+                        "p1" : "Ent nagu paljudel HAE-ga inimestel, võib sellega kaasneda see, et tunnete end perekonnast, sõpradest, hooldajatest ja tööandjatest sotsiaalselt isoleerituna. See võib ärevuse ja depressiooni tsüklit halvendada.²"
+                    }
+                },
+                "family" : "HAE ja teie perekond"
+            },
+            "family" : {
+                "title" : "knowHAE | Pärilik angioödeem (HAE) ja perekond",
+                "topTitle" : "Pärilik angioödeem ja teie perekond",
+                "p1" : "Pärilik angioödeem (HAE) esineb tavaliselt perekonnas, mistõttu nimetataksegi seda pärilikuks. Kui ühel vanemal on HAE, on igal lapsel 50%-line risk pärida see haigus. Kui laps ei päri haigust, ei anna ta seda edasi ka tulevastele põlvkondadele.¹",
+                "p2" : "Uuringus osalenud HAE-ga inimestel oli keskmiselt kaks lähimat ja kaks kaugemat pereliiget, kellel oli samuti diagnoositud HAE.* See tähendab, et diagnoositud patsiendina võib teil olla pereliikmeid, kellel on samuti HAE.²",
+                "h5" : "Julgustage oma pereliikmeid vestlema HAE testimise teemal oma arstiga.",
+                "p3" : "Kuna HAE on harvaesinev, ei pruugi mõned arstid haigusest teadlikud olla. Te võite aidata oma pereliikmeid julgustades neid rääkima haigusest oma arstidega ja innustada neid end haiguse osas testima. Kui pereliige on huvitatud sellise arsti leidmisest, kellel on teadmisi HAE-st, andke neile teada, et on olemas eksperdid, kes aitavad diagnoosida ja ravida HAE-d.³",
+                "findDoctor" : "Leia arst",
+                "findDoctorAlt" : "*Üleilmses uuringus, kus osales 313 HAE-ga inimest.²",
+                "supportHAE" : "HAE tugi"
+            },
+            "support" : {
+                "title" : "knowHAE | Päriliku angioödeemi (HAE) tugi",
+                "topTitle" : "Päriliku angioödeemi tugi",
+                "topAlt" : "Olenemata sellest, kas elate ise päriliku angioödeemiga (HAE) või tunnete kedagi, kellel see on, võib rääkimine teiste inimestega, kes mõistavad teie olukorda, olla uskumatult suureks abiks. Ühenduse võtmine HAE kogukonda kuuluvate inimestega võib aidata teil avastada uusi ressursse, luua tugivõrgustikku ning leida julgustust siis, kui seda vajate.",
+                "learnMore" : "Saage rohkem teada HAE kogukonnast ja kõigest, mida neil on võimalik pakkuda",
+                "lovedTitle" : "Vestelge oma sõprade ja lähedastega",
+                "lovedAlt" : "Teie tervisealane teave on loomulikult teie isiklik asi, kuid kaaluge seda, et räägite oma lähimatele sõpradele, pereliikmetele ja kolleegidele, et teil on HAE. Vestelge nendega avameelselt ja ausalt, nii teavad nad, kuidas teid toetada ja milliseid meetmeid hädaolukorras kasutusele võtta."
+            }
+        },
+        "hcp" : {
+            "symptoms" : {
+                "title" : "knowHAE | Päriliku angioödeemi (HAE) nähud, sümptomid, põhjused",
+                "topTitle" : "Mis on pärilik angioödeem?",
+                "topAlt" : "Tutvuge, millised on päriliku angioödeemi (HAE) nähud ja sümptomid ning kuidas haigust oma patsientidel tuvastada, nii et saaksite koos meetmeid kasutusele võtta.",
+                "p1" : "HAE on harvaesinev autosoomdominantne haigus, mis avaldub umbes ühel inimesel. <sup>1,3</sup>",
+                "p2" : "See põhjustab spontaanseid turseid erinevates kehapiirkondades. <sup>3,4</sup>",
+                "h5" : "Tursete sagedus ja raskusaste on ettearvamatud ning need võivad olla eluohtlikud juhul, kui need esinevad kõri piirkonnas. <sup>4,5</sup>",
+                "goodtoknow" : "Hea teada",
+                "goodtoknowAlt" : "HAE haiguskoormus võib mõjutada igapäevaelu väljaspool atakke. HAE võib oma ettearvamatuse tõttu põhjustada patsientidel ja nende hooldajatel olulist emotsionaalset ja psühhosotsiaalset kahju ning elukvaliteedi langust. <sup>2,6</sup>",
+                "h4" : "HAE atakkide levinud asukohad <sup>3,4</sup>",
+                "h3" : "Mis võib põhjustada päriliku angioödeemi atakke?",
+                "p3" : "Praegu on ära tuntud ja geneetiliselt tuvastatavad mitu erinevat HAE vormi. Kaks kõige levinumat on:",
+                "blockquote1" : {
+                    "h4" : "C1-INH puudulikkus (1. tüübi HAE, HAE-1):",
+                    "p" : "põhjuseks geenidefekt, mis põhjustab ühe immuunsüsteemi valgu C1-INH hulga languse või puudumise."
+                },
+                "blockquote2" : {
+                    "h4" : "C1-INH funktsioonihäire (2. tüübi HAE, HAE-2):",
+                    "p" : "C1-INH valku on piisavas koguses, aga funktsioon on häirunud."
+                },
+                "p4" : "Kallikreiini-kiniini süsteemis pärsib C1-INH bradükiniini tootmist, reguleerides plasma kallikreiini aktiivsust. Plasma kallikreiini aktiivsuse düsregulatsioon kallikreiini-kiniini süsteemis põhjustab suure molekulmassiga kininogeeni lõhustamist ning turseid põhjustava bradükiniini tootmist. <sup>7,8</sup>",
+                "types" : "HAE vormid <sup>4</sup>",
+                "p5" : "HAE muude vormide hulka, millega ei kaasne C1 - INH mutatsioonid, kuuluvad¹:",
+                "li1" : "F12 geeni mutatsioon (HAE-FXII)",
+                "li2" : "angiopoietiin-1 geeni mutatsioon (HAE-ANGPTI)",
+                "li3" : "plasminogeeni geeni mutatsioon (HAE-PLG)",
+                "li4" : "Kininogen 1 (HAE-KNG1)",
+                "li5" : "Müoferliin (HAE-MYOF)",
+                "li6" : "Heparaansulfaat-glükosamiin-3-O-sulfotransferaas 6 (HAE-HS3ST6)",
+                "li7" : "HAE teadmata mutatsiooniga (HAE-UNK)",
+                "prodromal" : "päriliku angioödeemi vallandavad tegurid ja eelsümptomid",
+                "prodromalAlt" : "Kuigi paljudel HAE atakkidel pole mingit tuvastatavat vallandavat tegurit, võib mõningaid atakke seostada järgmisega <sup>9</sup>: ",
+                "prodromalUl" : {
+                    "li1" : "Emotsionaalne pinge",
+                    "li2" : "Füüsiline trauma",
+                    "li3" : "Hormonaalsed kõikumised",
+                    "li4" : "Infektsioonid",
+                    "li5" : "Mõni ravim",
+                    "li6" : "Kokkupuude külmaga",
+                    "li7" : "Mehaaniline surve",
+                    "li8" : "Pikaaegne istumine või seismine",
+                    "li9" : "Teatud toidud"
+                },
+                "predictive" : "Eelnähud võivad mõnel juhul atakki ette ennustada ning sageli kirjeldatakse neid järgmiselt <sup>10-12</sup>: ",
+                "predictiveUl" : {
+                    "li1" : "väsimus või haiglane olek;",
+                    "li2" : "rahutus;",
+                    "li3" : "iiveldus;",
+                    "li4" : "liigesevalu;",
+                    "li5" : "krambid;",
+                    "li6" : "ärevus või meeleolumuutused."
+                },
+                "experience" : "Samuti võib patsiendil esineda kipitustunnet, naha pingulolekut või mittekihelevat löövet ehk <i>erythema marginatum</i>'it. <sup>11-13</sup>",
+                "goodtoknowAlt2" : "Atakkide ajalugu <em>ei</em> ole tulevase ataki sagedust, raskusastet ega asukohta ennustav tegur. <sup>5</sup>",
+                "diagnosing" : "HAE diagnoosimine"
+            },
+            "diagnosing" : {
+                "title" : "knowHAE | Päriliku angioödeemi (HAE) diagnoosimine",
+                "topTitle" : "Kuidas pärilikku angioödeemi diagnoositakse?",
+                "topAlt" : "Päriliku angioödeemi (HAE) diagnoosimisel tuleks arvesse võtta mitmeid tegureid, sh sümptome, perekondlikku anamneesi ja laboratoorset testimist. <sup>1</sup>",
+                "testing" : "C1-INH puudulikkuse või funktsioonihäire testimine",
+                "p1" : "Patsientidel, kellel kahtlustatakse HAE 1. või 2. tüüpi, tuleks hinnata C1-INH funktsiooni, C1-INH valgu ja C4 taset veres. Komplemendi testimisel patsiendi perifeerse vere test võib näidata lisaks C1-INH madalale aktiivsusele või tasemele ka madalat C4 taset. Kui ükskõik milline nende näitajate tasemetest on ebatavaliselt madal, tuleks diagnoosi kinnitamiseks teste korrata. <sup>1,3</sup>",
+                "p2" : "Kirjeldatud on muid harvaesinevaid HAE vorme, millega ei kaasne C1-INH mutatsioone. <sup>1</sup> Ent seda tüüpi HAE-ga patsientidel võivad olla kliinilised sümptomid, mida ei saa eristada 1. ja 2. tüübist, ning neil on C1-INH tase plasmas normaalne, samuti on C1-INH funktisonaalne. <sup>1, 7</sup>",
+                "h3" : "Päriliku angioödeemi diagnoosi hilinemine",
+                "h4" : "<br /> HAE-d diagnoositakse sageli valesti, isegi neil patsientidel, kellel on perekondlik taust <sup>5</sup>:",
+                "li1" : "HAE 1. või 2. tüübiga patsientide vaatlus-registriuuringus <strong>said peaaegu pooled patsientidest algul ühe või mitu väärdiagnoosi</strong> (185/418) ",
+                "li2" : "Patsiendid, kes said väärdiagnoosi, kogesid keskmiselt <strong>15 aasta pikkust õige diagnoosi hilinemist</strong> <sup>5</sup>",
+                "li3" : "Üldiselt võib väärdiagnoosiga kaasneda tervishoiuressursside suurenenud kasutamine, sh <strong>tarbetud kõhuoperatsioonid ja kõrgem suremusrisk kõriga seotud atakkide tõttu</strong><sup>6-8</sup>",
+                "goodtoknow" : "Hea teada",
+                "goodtoknowAlt" : "Geneetiline testimine suurendab diagnostilist usaldusväärsust lastel. Sellest võib olla abi siis, kui vanema mutatsioon on teada või kui biokeemilised mõõtmised on ebaselged. <sup>2,3</sup>",
+                "treating" : "HAE ravimine"
+            },
+            "treating" : {
+                "title" : "knowHAE | Päriliku angioödeemi (HAE) ravimine",
+                "topTitle" : "Kuidas pärilikku angioödeemi ravitakse?",
+                "topAlt" : "Ravimata jätmise korral halvenevad päriliku angioödeemi (HAE) atakid järk-järgult 12-24 tunni jooksul ja tavaliselt taanduvad ühe kuni viie päeva jooksul. HAE ravi peaks olema personaliseeritud ning vastama teie patsiendi vajadustele ja elustiilile, et aidata vähendada haiguskoormust atakkide ennetamise või kiire leevendamise teel. <sup>1,2</sup>",
+                "h5" : "<strong>Vastavalt 2021. aasta rahvusvahelisele WAO/EAACI <br />ravijuhendile</strong>, saab HAE-d ravida:",
+                "collapse" : {
+                    "onDemand" : {
+                        "title" : "Vajaduspõhine ravi (ägenemite sümptomaatiline ravi)",
+                        "p1" : "<strong>WAO/EAACI soovitused</strong><sup>3</sup><strong>:</strong>",
+                        "p2" : "Soovitused:",
+                        "li1" : "Kaaluda kõikide atakkide korral vajaduspõhise ravi vajadust. Soovitame ravida kõiki ülemisi hingamisteid mõjutavaid või mõjutada võivaid atakke.",
+                        "li2" : "Ravida võimalikult vara.",
+                        "li3" : "Kõikidel patsientidel peab olema piisavalt ravimeid, vähemalt 2 ataki korraks ja võimalus ravimeid endaga kaasas kanda.",
+                        "p3" : ""
+                    },
+                    "shortTerm" : {
+                        "title" : "Lühiajaline ennetusravi (protseduurieelne ennetamine)",
+                        "p1" : "<strong>WAO/EAACI soovitused</strong><sup>3</sup><strong>:</strong>",
+                        "p2" : "Soovitame kaaluda lühiajalist ennetusravi enne meditsiinilisi, kirurgilisi või hambaraviprotseduure, samuti kokkupuutel muude angioödeemi atakke esilekutsuvate sündmustega. Soovitame kaaluda lühiajalist ennetusravi kokkupuutel patsiendi- spetsiifiliste angioödeemi esilekutsuvate olukordade korral.",
+                        "p3" : "",
+                        "p4" : ""
+                    },
+                    "longTerm" : {
+                        "title" : "Pikaajaline ennetusravi (profülaktiline ravi)",
+                        "p1" : "<strong>WAO/EAACI soovitused</strong><sup>3</sup><strong>:</strong><br /> ",
+                        "p2" : "Soovitame hinnata patsiendi pikaajalise ennetusravi vajadust igal visiidil. Arvesse tuleks võtta haiguskoormust ja patsientide eelistust. Ravi eesmärkideks on saavutada täielik kontroll haiguse üle ja normaliseerida patsientide elu, mida on praegu võimalik saavutada vaid pikaajalise profülaktikaga."
+                    }
+                },
+                "em" : "",
+                "latin" : "",
+                "watch" : "Vaata ja saa teada:",
+                "highlights" : "",
+                "p1" : "",
+                "p2" : "Pange tähele, et kehtivad ravijuhendid on mõeldud üksnes 1. ja 2. tüübi HAE-ga patsientidele; muude HAE vormide patogenees ei ole hästi teada, seetõttu ei pruugi ravivõimalused olla sama tõhusad. <sup>4</sup>",
+                "managing" : "Saage lisateavet praeguste ravikäsitluste kohta",
+                "burden" : "Olen tervishoiuteenuse osutaja, kellel on kokkupuude HAE patsiendiga"
+            },
+            "burden" : {
+                "title" : "knowHAE | Päriliku angioödeemi (HAE) mõju",
+                "topTitle" : "Päriliku angioödeemi haiguskoormus võib ulatuda haiguse atakist kaugemale",
+                "topAlt" : "Te võite juba olla teadlik päriliku angioödeemi (HAE) nähtudest ja sümptomitest, kuid selle täieliku mõju hindamine oma patsientidel võib aidata ravi eesmärkide püstitamisel ja ravi planeerimisel.",
+                "h3" : "Pärilik angioödeem piirab patsientide elu",
+                "p1" : "HAE võib mõjutada patsienti isegi pärast ataki füüsiliste sümptomite taandumist. Paljude jaoks dikteerib HAE ataki ootus selle, mida patsiendid saavad või ei saa teha. <sup>1,2</sup>",
+                "p2" : "Haiguse ettearvamatuse tõttu teatasid mõned patsiendid stressi ja ärevuse kõrgest tasemest igapäevaelus. Need tunded tulenevad alljärgnevast <sup>1,2</sup>: ",
+                "li1" : {
+                    "a" : "häiritud seltskonnaelu;",
+                    "b" : "piiratud hariduspüüdlused;",
+                    "c" : "tulevaste hoogudega kaasnev ärevus;",
+                    "d" : "hirm HAE lastele edasiandmise ees."
+                },
+                "p3" : "Lisaks puudumistele ja langenud tööviljakusele teatasid patsiendid, et HAE on nende karjääri või hariduse omandamist takistanud järgmisel viisil <sup>5,6</sup>: ",
+                "li2" : {
+                    "a" : "haridusalaste valikute mõjutamine*;",
+                    "b" : "teatud töökohtadele kandideerimisest hoidumine †",
+                    "c" : "ametikohast loobumise või ettevõttesiseselt ametikoha vahetuse põhjustamine †"
+                },
+                "p4" : "Selle tõttu loobuvad patsiendid tihti alljärgnevast <sup>1,2</sup>: ",
+                "li3" : {
+                    "a" : "reisimine ja puhkus",
+                    "b" : "teatud harrastused",
+                    "c" : "sport ja muu kehaline tegevus",
+                    "d" : "seltskonnaüritused"
+                },
+                "p5" : "Tegemist ei ole üksnes plaanide tühistamisega, mõned patsiendid ei hakkagi üleüldse selliseid tegevusi planeerima. <sup>1</sup>",
+                "goodtoknow" : "Hea teada",
+                "goodtoknowAlt" : "HAE-ga patsientidel esines kliiniliselt olulist ärevust ja depressiooni vastavalt 38% ja 14%, võrreldes üleilmsete rahvastikunäitajatega, mis on 3,6% ja 4,4%. <sup>†</sup><sup>3,4</sup>",
+                "eu" : " * Tööviljakuse ja aktiivsuse languse ning üldise tervisliku seisundi küsimustiku põhjal (N = 457), mida jagati USA-s 2007. aasta novembrist 2008. aasta jaanuarini. <sup>6</sup> <br /> †2011. aastal Euroopas läbiviidud päriliku angioödeemi haiguskoormuse uurimuse kvantitatiivuuringu vastuste (N = 186) põhjal. <sup>3</sup>",
+                "angioedema" : "",
+                "angioedemaAlt" : "",
+                "talking" : "Oma HAE patsientidega vestlemine"
+            },
+            "talking" : {
+                "title" : "knowHAE | Vestlemine patsientidega pärilikust angioödeemist (HAE)",
+                "topTitle" : "Patsientidega vestlemine päriliku angioödeemi mõjust",
+                "topAlt" : "Te püüate vähendada päriliku angioödeemi (HAE) mõju oma patsientidele. Ent kui avameelsed on teie patsiendid kõige suhtes, kuidas HAE neid mõjutab? Paljud patsiendid ei pruugi isegi mõista, kui laialdaseks HAE negatiivne mõju võib muutuda. <sup>1</sup>",
+                "p1" : "Et aidata hinnata nende HAE täielikku mõju, kaaluge oma patsientidelt järgmiste asjade küsimist:",
+                "check1" : "Kui sageli muretsete tulevase ataki ettearvamatuse pärast või teete plaane selle kohaselt?",
+                "check2" : "Kas olete piiranud ataki hirmus oma reise?",
+                "check3" : "Kas olete vältinud seltskondlikke plaane ja muid tegevusi?",
+                "check4" : "Kas olete loobunud haridus- või tööalase arengu võimalustest?",
+                "managing" : "HAE ravimine"
+            },
+            "managing" : {
+                "title" : "knowHAE | Päriliku angioödeemi (HAE) ravi",
+                "topTitle" : "Raviplaani koostamine päriliku angioödeemi raviks",
+                "topAlt" : "Kõigil päriliku angioödeemiga (HAE) patsientidel peab olema individuaalne raviplaan, mis on hoolikalt välja töötatud nende vajadustest ja elustiilist lähtudes. Individuaalsed raviplaanid peaksid hõlmama ennetavaid meetmeid, koduhooldust ja eneseravi, samuti tõhusat erakorralist raviplaani koos selgete juhistega, kuidas kõige paremini ravimeid HAE-atakkide raviks kasutada. <sup>1</sup>",
+                "h3" : "2021 Rahvusvaheline WAO/EAACI HAE ravijuhend",
+                "p1" : "Kõiki HAE-ga patsiente on soovitatav teavitada võimalikest olukordadest, mis võivad esile kutsuda HAE atekke. <sup>1</sup>",
+                "collapse" : {
+                    "onDemand" : {
+                        "title" : "Vajaduspõhine ravi",
+                        "li1" : "Vajaduspõhise ravi puhul tuleks arvesse võtta kõiki atakke ja neid tuleks ravida võimalikult kiiresti. Ravida tuleks igat atakki, mis võib mõjutada ülemisi hingamisteid. <sup>1</sup>",
+                        "li2" : "<sup></sup>",
+                        "li3" : "Kõikidel patsientidel peaks olema vajaduspõhine ravi kahe ataki jaoks, mida tuleb kanda endaga kogu aeg kaasas. <sup>1</sup>"
+                    },
+                    "treatment" : {
+                        "title" : "Ennetusravi",
+                        "li1" : "<strong>Lühiajaline profülaktiline ravi:</strong> Uuringute üksikraportitest ja -seeriatest ilmneb, et profülaktilisest ravist hoolimata võib turseid esineda isegi pärast suhteliselt väikeseid protseduure. Ent mitmetes raportites on dokumenteeritud tursete vähenemist nii täiskasvanutel kui ka lastel, kes said protseduurieelset profülaktilist ravi, ravivastus näib olevat annusest sõltuv. Seetõttu on soovitatav lühiajalist protseduurieelset profülaktilist ravi enne kõigi meditsiiniliste, kirurgiliste ja hambaraviprotseduure, samuti enne kokkupuudet muude angioödeemi hoogu esilekutsuvate sündmustega. <sup>1</sup>",
+                        "li2" : "<strong>Pikaajaline profülaktiline ravi:</strong> Kaaluge profülaktilist ravi patsientide puhul, kes seisavad silmitsi elusündmustega, mis on seotud haiguse suurema aktiivsusega; patsientide haiguse kulgu tuleks pikaajalise ravi puhul hinnata igal visiidil, võttes arvesse haiguskoormust ja patsientide eelistust. <sup>1</sup>",
+                        "li3" : "Annuseid ja ravi intervalli tuleks kohandada vajaduse järgi, et vähendada haiguskoormust. <sup>1</sup>"
+                    }
+                },
+                "goodtoknow" : "Hea teada",
+                "goodtoknowAlt" : "Androgeene soovitatakse teise rea ravina, esimese rea raviks on C1-INH. Androgeenidesse tuleb suhtuda kriitiliselt, eriti seoses nende kahjuliku androgeense ja anaboolse toime, ravimite koostoimete ja vastunäidustustega. <sup>1</sup>",
+                "em" : "",
+                "watch" : "Vaata ja saa teada:",
+                "h5" : "",
+                "p2" : "",
+                "p3" : "Pange tähele, et kehtivad ravijuhendid on mõeldud üksnes 1. ja 2. tüübi HAE-ga patsientidele; muude HAE vormide patogenees ei ole hästi teada, seetõttu ei pruugi ravivõimalused olla sama tõhusad. <sup>1</sup>",
+                "identifying" : "HAE tuvastamine"
+            }
+        },
+        "utility" : {
+            "sitemap" : {
+                "title" : "Lehekülje kaart",
+                "h1" : "Lehekülje kaart",
+                "h2" : "Lehekülje kaart",
+                "nav" : {
+                    "li1" : "Avaleht",
+                    "li2" : {
+                        "title" : "Mis on HAE?",
+                        "li1" : "Nähud, sümptomid ja põhjused",
+                        "li2" : "HAE diagnoosimine",
+                        "li3" : "HAE ravimine"
+                    },
+                    "li3" : {
+                        "title" : "HAE-ga elamine",
+                        "li1" : "HAE mõju",
+                        "li2" : "HAE ja perekond",
+                        "li3" : "HAE tugi"
+                    },
+                    "li4" : "Tervishoiuteenuse osutajatele",
+                    "li5" : {
+                        "title" : "HAE tuvastamine",
+                        "li1" : "Nähud, sümptomid ja põhjused",
+                        "li2" : "HAE diagnoosimine",
+                        "li3" : "HAE ravimine"
+                    },
+                    "li6" : {
+                        "title" : "HAE mõju",
+                        "li1" : "HAE haiguskoormus",
+                        "li2" : "Patsientidega vestlemine",
+                        "li3" : "HAE ravimine"
+                    },
+                    "li7" : "Võtke meiega ühendust",
+                    "li8" : "Privaatsus- &amp; küpsiste kasutamise põhimõtted",
+                    "li9" : "Õigusteave"
+                }
+            }
+        }
+
+    }
+}

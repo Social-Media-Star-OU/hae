@@ -1,0 +1,477 @@
+{
+    "page" : {
+        "dialog" : {
+            "skip" : "Mine põhisisu juurde",
+            "top" : "Этот веб-сайт предназначен для пользователей за пределами США и Великобритании."
+        },
+        "footer" : {
+            "ref" : {
+                "home" : "<section id='block-homepagereferencesblock' class='block block-block-content block-block-contentd4a86d31-2726-4365-8f1e-10c73e379075 clearfix'><div class='field field--name-body field--type-text-with-summary field--label-hidden field--item'><p></p><h5><strong>Справочные материалы</strong>: <strong> 1.</strong> Longhurst HJ, Bork K. Hereditary angioedema: causes, manifestations and treatment. <em>Br J Hosp Med (Lond)</em>. 2006;67(12):654-657. <strong>2.</strong> Banerji A, Busse P, Christiansen SC, et al. Current state of hereditary angioedema management: a patient survey. <em>Allergy Asthma Proc</em>. 2015;36:213-217.</h5></div></section>",
+                "patient" : {
+                    "symptoms" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-5796ee440999e9fc16e57364bc0e6bfc75900e86f5597c5601ff47b40675d06f'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Справочные материалы:</strong><strong> 1.</strong> Longhurst H, Cicardi M. Hereditary angioedema. Lancet. 2012;379(9814):474-481. <strong>2.</strong> Zuraw BL. Clinical practice. Hereditary angioedema. N Engl J Med. 2008;359(10):1027-1036. <strong>3. </strong>Longhurst H, Bygum A. The humanistic, societal, and pharmaco-economic burden of angioedema. Clin Rev Allerg Immunol. 2016;51(2):230-239. <strong>4. </strong>Bork K, Hardt J, Schicketanz KH, Ressel N. Clinical studies of sudden upper airway obstruction in patients with hereditary angioedema due to C1 esterase inhibitor deficiency. Arch Intern Med. 2003 May 26;163(10):1229-35. <strong>5.</strong> Farkas H, Martinez-Saguer I, Bork K, et al. International consensus on the diagnosis and management of pediatric patients with hereditary angioedema with C1 inhibitor deﬁciency. Allergy. 2017;72(2):300-313. <strong>6.</strong> Zuraw BL, Banerji A, Bernstein JA, Busse PJ, Christiansen SC, Davis-Lorton M, Frank MM, Li HH, Lumry WR, Riedl M; US Hereditary Angioedema Association Medical Advisory Board. US Hereditary Angioedema Association Medical Advisory Board 2013 recommendations for the management of hereditary angioedema due to C1 inhibitor deficiency. J Allergy Clin Immunol Pract. 2013 Sep-Oct;1(5):458-67. <strong>7. </strong>Miranda AR, Ue AP, Sabbag DV, Furlani Wde J, Souza PK, Rotta O. Hereditary angioedema type III (estrogen-dependent) report of three cases and literature review. An Bras Dermatol. 2013 Jul-Aug;88(4):578-84. <strong>8.</strong> Bork K, Barnstedt SE, Koch P, Traupe H. Hereditary angioedema with normal C1-inhibitor activity in women. Lancet. 2000 Jul 15;356(9225):213-7. <strong>9.</strong> Agostoni A, Aygören-Pürsün E, Binkley KE, Blanch A, Bork K, Bouillet L, Bucher C, Castaldo AJ, Cicardi M, Davis AE, De Carolis C, Drouet C, Duponchel C, Farkas H, Fáy K, Fekete B, Fischer B, Fontana L, Füst G, Giacomelli R, Gröner A, Hack CE, Harmat G, Jakenfelds J, Juers M, Kalmár L, Kaposi PN, Karádi I, Kitzinger A, Kollár T, Kreuz W, Lakatos P, Longhurst HJ, Lopez-Trascasa M, Martinez-Saguer I, Monnier N, Nagy I, Németh E, Nielsen EW, Nuijens JH, O'grady C, Pappalardo E, Penna V, Perricone C, Perricone R, Rauch U, Roche O, Rusicke E, Späth PJ, Szendei G, Takács E, Tordai A, Truedsson L, Varga L, Visy B, Williams K, Zanichelli A, Zingale L. Hereditary and acquired angioedema: problems and progress: proceedings of the third C1 esterase inhibitor deficiency workshop and beyond. J Allergy Clin Immunol. 2004 Sep;114(3 Suppl):S51-131.</h5></div></div></div></div></div></div></section>",
+                    "diagnosing" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-1794582b041ad1df1b804426a2568c3daeacbc9d7bfdd63b4c0900b77220ae37'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Справочные материалы: 1.</strong> Longhurst H, Bygum A. The humanistic, societal, and pharmaco-economic burden of angioedema. Clin Rev Allerg Immunol. 2016;51(2):230-239. <strong>2.</strong> Maurer M, Magerl M, Betschel S, et al. The international WAO/EAACI guideline for the management of hereditary angioedema-The 2021 revision and update. Allergy. 2022;77(7):1961-1990. <strong>3.</strong> Pappalardo E, Cicardi M, Duponchel C, Carugati A, Choquet S, Agostoni A, Tosi M. Frequent de novo mutations and exon deletions in the C1inhibitor gene of patients with angioedema. J Allergy Clin Immunol. 2000 Dec;106(6):1147-54.</h5></div></div></div></div></div></div></section>",
+                    "treating" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block js-view-dom-id-803ff5765ca50aaf6e1e60ac7737843bd34f4f54be2e226fcb8801e16a78f5a2'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Справочные материалы: 1. </strong>Maurer M, Magerl M, Betschel S, et al. The international WAO/EAACI guideline for the management of hereditary angioedema-The 2021 revision and update. Allergy. 2022;77(7):1961-1990. <strong>2.</strong> Zuraw BL. Clinical practice. Hereditary angioedema. N Engl J Med. 2008;359(10):1027-1036. <strong>3.</strong> Busse PJ, Christiansen SC, Riedl MA, Banerji A, Bernstein JA, Castaldo AJ, et al. US HAEA Medical Advisory Board 2020 guidelines for the management of hereditary angioedema.  <em>J Allergy Clin Immunol Pract</em>. (2021) 9(1):132–50. <strong>4.</strong> Bork K, Hardt J, Schicketanz KH, Ressel N. Clinical studies of sudden upper airway obstruction in patients with hereditary angioedema due to C1 esterase inhibitor deficiency. Arch Intern Med. 2003 May 26;163(10):1229-35.</h5></div></div></div></div></div></div></section>",
+                    "impact" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-a4d55bba147385ff4839a103b1e13b55fdb5855032dcdeaab8b6cf8cf562bd90'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Справочные материалы: 1.</strong> Longhurst H, Cicardi M. Hereditary angioedema. Lancet. 2012;379(9814):474-481. <strong>2.</strong> Bygum A, Aygören-Pürsün E, Beusterien K, et al. Burden of illness in hereditary angioedema: a conceptual model. Acta Derm Venereol. 2015;95(6):706-710. <strong>3.</strong> Longhurst H, Bygum A. The humanistic, societal, and pharmaco-economic burden of angioedema. Clin Rev Allerg Immunol. 2016;51(2):230-239. <strong>4.</strong> Caballero T, Aygören-Pürsün E, Bygum A, Beusterien K, Hautamaki E, Sisic Z, Wait S, Boysen HB. The humanistic burden of hereditary angioedema: results from the Burden of Illness Study in Europe. Allergy Asthma Proc. 2014 Jan-Feb;35(1):47-53. <strong>5.</strong> Depression and Other Common Mental Disorders: Global Health Estimates. Geneva: World Health Organization; 2017. Licence: CC BY-NC-SA 3.0 IGO. <strong>6.</strong> Lumry WR, Castaldo AJ, Vernon MK, Blaustein MB, Wilson DA, Horn PT. The humanistic burden of hereditary angioedema: Impact on health-related quality of life, productivity, and depression. Allergy Asthma Proc. 2010;31(5):407-414. <strong>7.</strong> Kuman Tunçel Ö, Gökmen NM, Demir E, Gülbahar O, Pırıldar Ş. The impact of hereditary angioedema on quality of life and family planning decisions. Int J Psychiatry Med. 2019;54(6):377-394. <strong>8.</strong> Aygören-Pürsün E, Bygum A, Beusterien K, et al. Socioeconomic burden of hereditary angioedema: results from the hereditary angioedema burden of illness study in Europe. Orphanet J Rare Dis. 2014;9:99.</h5></div></div></div></div></div></div></section>",
+                    "hae" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-77b0f4470febad0c2afbb37f28f777f9edc8f937ead53caa31fcdbee3c87e816'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Справочные материалы: 1. </strong>Maurer M, Magerl M, Betschel S, et al. The international WAO/EAACI guideline for the management of hereditary angioedema-The 2021 revision and update. Allergy. 2022;77(7):1961-1990. <strong>2.</strong> Lunn ML, Santos CB, Craig TJ. Is there a need for clinical guidelines in the United States for the diagnosis of hereditary angioedema and the screening of family members of affected patients?. Ann Allergy Asthma Immunol. 2010;104(3):211-214. <strong>3.</strong> Longhurst H, Bygum A. The humanistic, societal, and pharmaco-economic burden of angioedema. Clin Rev Allerg Immunol. 2016;51(2):230-239.</h5></div></div></div></div></div></div></section>",
+                    "support" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-bf6ed7275bc96eb0b422fd33a2777abe7061180e1d8688cc56ee58e30022711c'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'></div></div></div></div></div></div></section>"
+                },
+                "hcp" : {
+                    "symptoms" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-26c66fb7c6b796cbad79f63a75482916a5f3e3218ba21fed4fb6a6ec173ad488'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Справочные материалы:</strong><strong> 1. </strong>Maurer M, Magerl M, Betschel S, et al. The international WAO/EAACI guideline for the management of hereditary angioedema-The 2021 revision and update. Allergy. 2022;77(7):1961-1990. <strong>2. </strong>Longhurst H, Bygum A. The humanistic, societal, and pharmaco-economic burden of angioedema. Clin Rev Allerg Immunol. 2016;51(2):230-239. <strong>3.</strong> Longhurst HJ, Bork K. Hereditary angioedema: causes, manifestations and treatment. Br J Hosp Med (Lond). 2006;67(12):654-657. <strong>4.</strong> Banerji A, Busse P, Christiansen SC, et al. Current state of hereditary angioedema management: a patient survey. Allergy Asthma Proc. 2015;36(3):213-217. <strong>5.</strong> Farkas H, Martinez-Saguer I, Bork K, et al. International consensus on the diagnosis and management of pediatric patients with hereditary angioedema with C1 inhibitor deﬁciency. Allergy. 2017;72(2):300-313. <strong>6.</strong> Bygum A, Aygören-Pürsün E, Beusterien K, et al. Burden of illness in hereditary angioedema: a conceptual model. Acta Derm Venereol. 2015;95(6):706-710. <strong>7.</strong> Longhurst H, Cicardi M. Hereditary angioedema. Lancet. 2012;379(9814):474-481. <strong>8.</strong> Suffritti C, Zanichelli A, Maggioni L, Bonanni E, Cugno M, Cicardi M. High-molecular-weight kininogen cleavage correlates with disease states in the bradykinin-mediated angioedema due to hereditary C1-inhibitor deﬁciency. Clin Exp Allergy. 2014;44(12):1503-1514. <strong>9. </strong>Caballero T, Maurer M, Longhurst HJ, et al. Triggers and prodromal symptoms of angioedema attacks in patients with hereditary angioedema. J Investig Allergol Clin Immunol. 2016;26(6):383-386. <strong>10.</strong> Prematta MJ, Kemp JG, Gibbs JG, Mende C, Rhoads C, Craig TJ. Frequency, timing, and type of prodromal symptoms associated with hereditary angioedema attacks. Allergy Asthma Proc. 2009;30(5):506-511. <strong>11.</strong> Rasmussen ER, de Freitas PV, Bygum A. Urticaria and prodromal symptoms including erythema marginatum in Danish patients with hereditary angioedema. Acta Derm Venereol. 2016;96(3): 373-376. <strong>12.</strong> Magerl M, Doumoulakis G, Kalkounou I, et al. Characterization of prodromal symptoms in a large population of patients with hereditary angio-oedema. Clin Exp Dermatol. 2014;39(3);298-303. <strong>13. </strong>Johnston D. Diagnosis and management of hereditary angioedema. J Am Osteopath Assoc. 2011;111(1):28-36. <strong>14.</strong> Zuraw BL. Clinical practice. Hereditary angioedema. N Engl J Med. 2008;359(10):1027-1036. <strong>15.</strong> Aygören-Pürsün E, Bygum A, Beusterien K, et al. Socioeconomic burden of hereditary angioedema: results from the hereditary angioedema burden of illness study in Europe. Orphanet J Rare Dis. 2014;9:99. <strong>16.</strong> Lunn ML, Santos CB, Craig TJ. Is there a need for clinical guidelines in the United States for the diagnosis of hereditary angioedema and the screening of family members of affected patients?. Ann Allergy Asthma Immunol. 2010;104(3):211-214.</h5></div></div></div></div></div></div></section>",
+                    "diagnosing" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-69e1dbe3844a9586be10a641c060dbf8dadeb90305322f750040ca4146d2cfe4'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Справочные материалы: 1.</strong> Maurer M, Magerl M, Betschel S, et al. the international WAO/EAACI guideline for the management of hereditary angioedema-The 2021 revision and update. Allergy. 2022;77(7):1961-1990. <strong>2.</strong> Zuraw BL. Clinical Practice. Hereditary angioedema. N Engl J Med. 2008;359(10):1027-1036. <strong>3.</strong> Cicardi M, Aberer W, Banerji A, et al. Classiﬁcation, diagnosis, and approach to treatment for angioedema: consensus report from the Hereditary Angioedema International Working Group. Allergy. 2014;69(5):602-616. <strong>4.</strong> Zuraw B. Hereditary angioedema with normal C1 inhibitor. Four types and counting. J Allergy Clin Immunol. 2018;141(3): 884-885. 5. Zanichelli A, Longhurst HJ, Maurer M, et al. Misdiagnosis trends in patients with hereditary angioedema from the real-world clinical setting. Ann Allergy Asthma Immunol. 2016;117(4):394-398. <strong>6.</strong> Patel N, Suarez LD, Kapur S, Bielory L. Hereditary angioedema and gastrointestinal complications: an extensive review of the literature. Case Reports Immunol. 2015;2015:925861. <strong>7.</strong> Bork K, Hardt J, Witzke G. Fatal laryngeal attacks and mortality in hereditary angioedema due to C1-INH deﬁciency. J Allergy Clin Immunol. 2012;130(3):692-697. <strong>8.</strong> Longhurst H, Bygum A. The humanistic, societal, and pharmaco-economic burden of angioedema. Clin Rev Allerg Immunol. 2016;51(2):230-239.</h5></div></div></div></div></div></div></section>",
+                    "treating" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-637b0f97e199b5babcaf2282fed85e94bd214e0f00be3252926dff770518582b'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Справочные материалы: 1. </strong>Bygum A, Aygören-Pürsün E, Beusterien K, et al. Burden of illness in hereditary angioedema: a conceptual model. Acta Derm Venereol. 2015;95(6): 706-710. <strong>2.</strong> Longhurst H, Cicardi M. Hereditary angioedema. Lancet. 2012;379(9814):474-481. <strong>3.</strong> Maurer M, Magerl M, Betschel S, et al. the international WAO/EAACI guideline for the management of hereditary angioedema-The 2021 revision and update. Allergy. 2022;77(7):1961-1990. <strong>4.</strong> Grumach A, Gadir N, Kessel A and Yegin A, Current challenges and future opportunities in patient-focused management of hereditary angioedema: A narrative review. Clinical and Translational Allergy. 2023;13(5).</h5></div></div></div></div></div></div></section>",
+                    "burden" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-95dfc68dd07331ba14c2869939c1a812e53bac8889a8c37281f093e09f21e514'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Справочные материалы: 1.</strong> Bygum A, Aygören-Pürsün E, Beusterien K, et al. Burden of illness in hereditary angioedema: a conceptual model. Acta Derm Venereol. 2015;95(6): 706-710. <strong>2.</strong> Longhurst H, Bygum A. The humanistic, societal, and pharmaco-economic burden of angioedema. Clin Rev Allerg Immunol. 2016;51(2):230-239. <strong>3.</strong> Caballero T, Aygören-Pürsün E, Bygum A, et al. The humanistic burden of hereditary angioedema: results from the Burden of Illness Study in Europe. Allergy Asthma Proc. 2014;35(1):47-53. <strong>4.</strong> World Health Organization. Depression and Other Common Mental Disorders: Global Health Estimates. Geneva, Switzerland: WHO Document Production Services; 2017. <strong>5.</strong> Aygören-Pürsün E, Bygum A, Beusterien K, et al. Socioeconomic burden of hereditary angioedema: results from the hereditary angioedema burden of illness study in Europe. Orphanet J Rare Dis. 2014;9:99. <strong>6.</strong> Lumry W, Castaldo A, Vernon M, Blaustein MB, Wilson DA, Horn PT. The humanistic burden of hereditary angioedema: impact on health-related quality of life, productivity, and depression. Allergy Asthma Proc. 2010;31(5):407-414.</h5></div></div></div></div></div></div></section>",
+                    "talking" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-e0f085028139453da0b24eec44cc2912689bbb13afb2023da782bdfed332b507'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Справочные материалы: 1.</strong> Bygum A, Aygören-Pürsün E, Beusterien K, et al. Burden of illness in hereditary angioetients with hereditary angioedema (HAE)dema: a conceptual model. Acta Derm Venereol. 2015;95(6): 706-710.</h5></div></div></div></div></div></div></section>",
+                    "managing" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-73418af1a230634e877dea5e54cfa6f85ba3f2f9b2cc82156705c5f69c27b345'><div class='view-content'><div class='views-row'><div class='views-field views-field-field-references'><div class='field-content'><h5><strong>Справочные материалы: 1.</strong> Maurer M, Magerl M, Betschel S, et al. the international WAO/EAACI guideline for the management of hereditary angioedema-The 2021 revision and update. Allergy. 2022;77(7):1961-1990.</h5></div></div></div></div></div></div></section>"
+                },
+                "sitemap" : "<section class='views-element-container block block-views block-views-blockreferences-block-block-1 clearfix' id='block-views-block-references-block-block-1'><div class='form-group'><div class='view view-references-block view-id-references_block view-display-id-block_1 js-view-dom-id-4064c4e322daef38f62d6fcaa47278b1362a82cf6e9c2c17f6a37dadb0d25cdf'></div></div></section>"
+            },
+            "outside" : "Этот веб-сайт предназначен для пользователей за пределами США и Великобритании.<br><br>",
+            "References" : "Справочные материалы",
+            "treatment" : "Longhurst HJ, Bork K. Hereditary angioedema: causes, manifestations and treatment.",
+            "em" : "Br J Hosp Med (Lond)",
+            "2006" : "2006;67(12):654-657.",
+            "state" : "Banerji A, Busse P, Christiansen SC, et al. Current state of hereditary angioedema management: a patient survey.",
+            "em2" : "Allergy Asthma Proc",
+            "2015" : ". 2015;36:213-217.",
+            "footerMenu" : "Footer menu",
+            "sitemap" : "Карта сайта",
+            "privacy" : "Политика конфиденциальности и файлов Cookies",
+            "legal" : "Официальное уведомление",
+            "contact" : "Свяжитесь с нами",
+            "copy1" : "Этот веб-сайт предназначен для пользователей за пределами США и Великобритании. Веб-сайт разработан компанией «Такеда» в соответствии с отраслевыми и правовыми стандартами. Компания «Такеда» прилагает все разумные усилия для включения точной и актуальной информации. Однако информация, представленная на веб-сайте, не является исчерпывающей.",
+            "copy2" : "© 2024 Takeda Pharmaceutical Company Limited Все права защищены. C-ANPROM/EE/HAE/0015 September 2024",
+            "cookieTitle" : "Этот сайт использует Cookie. Используя данный сайт вы даете согласие на использование файлов Cookie.",
+            "cookieFind" : "Политика использования cookies"
+        },
+        "navbar" : {
+            "patient" : {
+                "dropdown" : {                   
+                    "title" : "Patsiendi menüü",
+                    "WhatIsHAE" : {
+                        "title" : "что такое НАО?",
+                        "symptoms" : "признаки и симптомы",
+                        "symptomsA" : "patsient/mis-on-hae/nahud-sumptomid-ja-pohjused",
+                        "diagnosing" : "диагностика НАО",
+                        "diagnosingA" : "patsient/mis-on-hae/hae-diagnoosimine",
+                        "treating" : "лечение НАО",
+                        "treatingA" : "patsient/mis-on-hae/hae-ravimine"
+                    },
+                    "LivingWithHAE" : {
+                        "title" : "жизнь с НАО",
+                        "impact" : "влияние НАО",
+                        "impactA" : "patsient/hae-ga-elamine/hae-moju",
+                        "family" : "наследование НАО",
+                        "familyA" : "patsient/hae-ga-elamine/hae-ja-perekond",
+                        "support" : "поддержка при НАО",
+                        "supportA" : "patsient/hae-ga-elamine/hae-tugi"
+                    }
+                },
+                "contact" : "HAE diagnostikakeskuste kontaktid",
+                "contactA" : "utiliit/kontaktid",
+                "utilityMenu" : "Patsiendi utiliidi menüü",
+                "prof" : "Для медицинских работников",
+                "language" : "Eesti"
+            },
+            "hcp" : {
+                "dropdown" : {
+                    "title" : "HCP menüü",
+                    "identifying" : {
+                        "title" : "определение НАО",
+                        "symptoms" : "признаки и симптомы",
+                        "symptomsA" : "hcp/hae-tuvastamine/nahud-sumptomid-ja-pohjused",
+                        "diagnosing" : "диагностика НАО",
+                        "diagnosingA" : "hcp/hae-tuvastamine/hae-diagnoosimine",
+                        "treating" : "лечение НАО",
+                        "treatingA" : "hcp/hae-tuvastamine/hae-ravimine"
+                    },
+                    "impact" : {
+                        "title" : "влияние НАО",
+                        "burden" : "бремя болезни HAO",
+                        "burdenA" : "hcp/hae-moju/hae-haiguskoormus",
+                        "patients" : "общение с пациентом",
+                        "patientsA" : "hcp/hae-moju/patsientidega-vestlemine",
+                        "managing" : "лечение НАО",
+                        "managingA" : "hcp/hae-moju/hae-ravimine"
+                    }
+                },
+                "contact" : "HAE diagnostikakeskuste kontaktid",
+                "contactA" : "utiliit/kontaktid",
+                "utilityMenu" : "Patsiendi utiliidi menüü",
+                "prof" : "для пациентов и лиц, осуществляющих уход",
+                "language" : "Russian"
+            },
+            "utility" : {
+                "language" : "Russian"
+            }
+        }, 
+        "index" : {
+           "title" : "Главная страница - knowHAE", 
+           "language" : "Russian",
+           "sliderPrevious" : "Предыдущий",
+           "sliderNext" : "Следующий",
+           "WhatIsHAE" : "что такое НАО?",
+           "WhatIsHAEDesc" : "Узнать о симптомах НАО, таких как отек и боль",
+           "LivingWithHAE" : "жизнь с НАО",
+           "LivingWithHAEDesc" : "Узнайте, как НАО может повлиять на вас и вашу семью— и как справиться с ним",
+           "HealthCareProvider" : "Я — медицинский работник",
+           "IdentifyingHAE" : "определение НАО",
+           "IdentifyingHAEDesc" : "Узнать о признаках НАО — редком заболевании, которое часто неправильно диагностируется",
+           "ManagingHAE" : "контроль НАО",
+           "ManagingHAEDesc" : "Узнать об эмоциональном влиянии НАО и не только"
+        },
+        "patient" : {
+            "diagnosing" : {
+                "title" : "knowHAE | диагностика наследственного ангионевротического отека",
+                "topTitle" : "как диагностируется наследственный ангионевротический отек?",
+                "topAlt" : "Постановка диагноза ''наследственный ангионевротический оте'' (НАО) начинается с разговора с врачом. Поскольку НАО встречается редко и не все врачи слышали об этом заболевании, поставить точный диагноз может быть сложно.",
+                "appointment" : "чего ожидать на приеме у врача",
+                "appointmentAlt" : "Если врач заподозрит у вас НАО, он задаст вопросы о симптомах и о том, когда они впервые появились. Поскольку НАО обычно передается по наследству, врач также спросит, встречались ли у кого-то из членов вашей семьи эпизоды отеков или был ли у кого-то из них диагностирован НАО.",
+                "goodtoknow" : "полезная информация",
+                "goodtoknowAlt" : "Даже если ни у кого из вашей семьи нет НАО, у вас все равно может быть это заболевание. Один из четырех случаев НАО возникает в результате спонтанной генетической мутации.",
+                "testHAE" : "тесты для подтверждения диагноза НАО",
+                "testHAEalt" : "Если врач заподозрил у вас НАО, он назначит вам анализ крови. В ходе анализа определяется количество белка C1-INH и его активность. Также имеют значение клинические симптомы и семейный анамнез.",
+                "booklet" : "руководство для обсуждения",
+                "bookletAlt" : "Если вы подозреваете у себя НАО, воспользуйтесь этим руководством во время приема у врача и обсудите с ним симптомы.",
+                "download" : "скачать руководство (по-английски)",
+                "HAEtreated" : "как проходит лечение НАО?"
+            },
+            "symptoms" : {
+                "title" : "knowHAE | наследственном ангионевротическом отеке признаки и симптомы",
+                "skip" : "основное содержание",
+                "headerTop" : "Этот веб-сайт предназначен для пользователей за пределами США и Великобритании.",
+                "topTitle" : "что такое наследственный ангионевротический отек?",
+                "topAlt" : "Наследственный ангионевротический отек (НАО) является редким генетическим заболеванием. Считается, что всего 1 из 50 000 человек во всем мире имеет НАО.",
+                "hereditary" : "признаки и симптомы наследственного ангионевротического отека",
+                "hereditaryAlt" : "НАО может вызывать болезненный и внезапный отек любой части тела. Эти приступы НАО могут происходить без предупреждения в течение нескольких дней. Боль и отек могут сделать человека нетрудоспособным, ему будет трудно выполнять повседневные задачи. Это может сделать жизнь с НАО физически и эмоционально сложной.",
+                "hereditaryAttacks" : "Приступы могут возникать в любой части тела, но к распространенным местам локализации отеков относятся:",
+                "bullets" : {
+                    "a" : "брюшная полость",
+                    "b" : "лицо",
+                    "c" : "горло",
+                    "d" : "гениталии",
+                    "e" : "руки",
+                    "f" : "ноги"
+                },
+                "swelling" : "Отек горла может стать опасным для жизни, поскольку он может привести к удушью. Если у вас возникнет приступ с вовлечением гортани, немедленно обратитесь за неотложной помощью.",
+                "unpredictable" : "НАО может быть непредсказуемым",
+                "unpredictableAlt" : "Симптомы НАО могут сильно отличаться у разных пациентов—и даже у одного пациента. Например, у некоторых людей с НАО приступы могут случаться чаще во время полового созревания. Или у пациента, у которого обычно развивались абдоминальные приступы, могут начаться ларингеальные атаки или отеки в любом другом месте локализации.",
+                "goodtoknow" : "полезная информация",
+                "goodtoknowAlt" : "Приступ НАО может начинаться в одном месте и распространяться на другое.",
+                "worse1" : "Приступы НАО могут продолжаться в течение нескольких дней, если их не лечить. Отек обычно усиливается в течение 24 часов, а затем медленно проходит в течение 48–72 часов.",
+                "worse2" : "Некоторые люди испытывают покалывание перед приступом. Они также могут заметить невыступающую, незудящую сыпь до начала отека.",
+                "angioedema" : "что вызывает наследственный ангионевротический отек?",
+                "angioedemaAlt" : "Многие люди с НАО имеют низкий уровень важного белка, который называется Ингибитор C1-эстеразы (C1-INH) в крови, или этот белок не работает должным образом.",
+                "angioedemaAlt2" : "",
+                "angioedemaAlt3" : "Когда нет достаточного количества C1-INH, другой белок, называемый калликреин плазмы, становится гиперактивным. Слишком большая активность калликреина плазмы приводит к избыточной выработке брадикинина — вещества, которое приводит к приступу.",
+                "HAEattacks" : "что вызывает приступы НАО?",
+                "HAEattacksAlt" : "Для возникновения приступов НАО характерны определенные триггеры. НАО может сильно варьироваться у разных людей, поэтому ваши триггеры могут сильно отличаться от других. Некоторые люди могут испытывать приступ НАО при физической травме, например, при падении на велосипеде или при стоматологической процедуре. У других людей приступ НАО легко может вызвать повторяющееся движение, такое как, использование ножниц.",
+                "attackTriggers" : "Некоторые распространенные триггеры приступов НАО:<br>",
+                "attackTriggersIcon1" : "Эмоциональный стресс",
+                "attackTriggersIcon2" : "Незначительная травма, хирургическое вмешательство или стоматологическая процедура",
+                "attackTriggersIcon3" : "Инфекция",
+                "attackTriggersIcon4" : "Гормональные влияния, такие как менструация или определенные виды контрацепции",
+                "attackTriggersIcon5" : "Физическая активность, в том числе и незначительная, например, использование ножниц.",
+                "HAEdiagnosed" : "Как диагностируется НАО?"
+            },
+            "treating" : {
+                "title" : "knowHAE | лечение наследственного ангионевротического отека",
+                "topTitle" : "как лечится наследственный ангионевротический отек?",
+                "topAlt" : "Спросите своего лечащего врача о возможных вариантах терапии наследственного ангионевротического отека (НАО). Терапия НАО может быть профилактической и по требованию.<br>",
+                "preventive" : "профилактическая терапия НАО",
+                "preventiveAlt" : "Профилактическая терапия НАО, или долгосрочная профилактическая терапия, представляет собой регулярное применение препаратов, которые способны предотвратить приступы НАО или позволяют облегчить их течение.",
+                "onDemand" : "терапия НАО по требованию",
+                "onDemandAlt" : "Терапия НАО по требованию представляет собой применение препаратов для купирования приступов НАО (купирования отеков НАО).",
+                "aﬀects" : "Не у каждого человека с НАО будет приступ, поражающий дыхательные пути, но такой риск существует. Эти приступы могут представлять угрозу для жизни, поэтому ведущие организации здравоохранения рекомендуют всем пациентам с НАО иметь доступ к терапии по необходимости. Если у Вас НАО, важно поговорить со своим врачом о необходимости лечения по требованию.",
+                "talkDoctor" : "Поговорите со своим врачом",
+                "goodtoknow" : "полезная информация",
+                "goodtoknowAlt" : "Поскольку НАО проявляется у пациентов по-разному, важно регулярно посещать своего лечащего врача, чтобы составить индивидуальный план лечения или скорректировать терапию.",
+                "living" : "жизнь с НАО"
+            },
+            "impact" : {
+                "title" : "knowHAE | наследственным ангионевротическим отек влияние",
+                "topTitle" : "жизнь с наследственным ангионевротическим отеком",
+                "topAlt" : "Жить с наследственным ангионевротическим отеком (НАО) не всегда легко. Приступ НАО может не просто нарушить вашу повседневную жизнь. Это может быть физически и эмоционально болезненно, иногда страшно и даже опасно для жизни.",
+                "worry" : "Как и у других пациентов с НАО, у вас могут возникать тревожные состояния из-за возможности возникновения нового приступа. Это может заставить вас избегать ситуаций, которые другие могут воспринимать как должное, например:",
+                "icon1" : "Планирование событий из вашей жизни",
+                "icon2" : "Путешествие или отпуск",
+                "icon3" : "Употребление определенных продуктов питания",
+                "icon4" : "Физическая активность",
+                "goodtoknow" : "полезная информация",
+                "goodtoknowAlt" : "Есть надежда, даже если Вы столкнулись с этими проблемами. Обсудите со своим лечащим врачом как справляться с приступами НАО.",
+                "attacks" : "Независимо от частоты Ваших приступов, негативные последствия НАО можно почувствовать даже после того, как физический отек и боль от приступа исчезли.",
+                "collapse" : {
+                    "a" : {
+                        "title" : "эмоциональное воздействие НАО",
+                        "strong" : "Нам всем иногда бывает грустно и тревожно. Но знаете ли вы, что у пациентов с НАО уровень тревоги и депрессии выше?",
+                        "p1" : "В международном исследовании было выявлено, что у пациентов с НАО вероятность депрессии выше в 3 раза, а вероятность возникновения тревожных расстройств в 10 раз выше по сравнению с общей выборкой. <sup>4, 5, 6, 7 </sup>",
+                        "p2" : "Причины тревожности:²",
+                        "li1" : "боязнь следующего приступа, в том числе тяжелых приступов с возможностью удушья,",
+                        "li2" : "путешествие далеко от дома,",
+                        "li3" : "предполагаемая нагрузка на партнеров по уходу, друзей и членов семьи,",
+                        "li4" : "передача НАО детям."
+                    },
+                    "b" : {
+                        "title" : "влияние НАО на учебу и работу",
+                        "strong" : "В рамках опроса, проведенного в Европе, почти половина респондентов сообщили, что НАО повлиял на их успехи в учебе или работе.⁸",
+                        "p1" : "И речь не только об отсутствии во время приступов. В отдельном исследовании некоторые люди с НАО сообщили о том, что они столкнулись со следующими проблемами:²",
+                        "li1" : "выбор карьеры часто ограничен возможностью частичной занятости,",
+                        "li2" : "снижение работоспособности и отсутствие на рабочем месте,",
+                        "li3" : "отсутствие понимания или поддержки на работе,",
+                        "li4" : "неудачи в карьере,",
+                        "li5" : "страх потерять свою работу.",
+                        "p2" : "Это влияние возрастает с учащением приступов.²"
+                    },
+                    "c" : {
+                        "title" : "влияние НАО на социальную жизнь",
+                        "strong" : "Когда вы беспокоитесь о следующем приступе, невозможно нормально заниматься своими обычными делами, например, отправиться в путешествие или устроить вечеринку. В конце концов, если не строить планы, то и не придется их отменять.",
+                        "p1" : "Как и у многих пациентов с НАО, это может привести к тому, что вы будете чувствовать себя социально изолированным. Это может привести к усугублению цикла тревоги и депрессии.²"
+                    }
+                },
+                "family" : "наследование НАО"
+            },
+            "family" : {
+                "title" : "knowHAE | наследственный ангионевротический отек и ваша семья",
+                "topTitle" : "наследственный ангионевротический отек и ваша семья",
+                "p1" : "Наследственный ангионевротический отек (НАО) обычно передается от родителей, поэтому это заболевание называется «наследственным». Если у одного родителя есть НАО, то каждый ребенок будет иметь 50% риск наследования этого заболевания. Если ребенок не унаследовал НАО, он не сможет передать его будущим поколениям.¹",
+                "p2" : "В ходе опроса у пациентов с НАО было выявлено в среднем 2 близких члена семьи и 2 родственника, которым также был поставлен диагноз НАО*. Это значит, что как у диагностированного пациента у вас могут быть родственники, у которых также есть НАО.²",
+                "h5" : "Предложите членам вашей семьи поговорить со своими врачами о том, как пройти тестирование на НАО.",
+                "p3" : "Поскольку НАО встречается редко, некоторые врачи не знают об этом заболевании. Вы можете предложить своим родственникам обсудить их состояние со своими врачами и предложить им пройти диагностику. Если ваш родственник заинтересован в поиске врача, который знает о НАО, сообщите ему о том, что существуют эксперты, которые могут помочь диагностировать и лечить НАО.³",
+                "findDoctor" : "Найти врача",
+                "findDoctorAlt" : "*В глобальном исследовании 313 человек с НАО.²",
+                "supportHAE" : "поддержка при НАО"
+            },
+            "support" : {
+                "title" : "knowHAE | поддержка при наследственном ангионевротическом отеке",
+                "topTitle" : "поддержка при наследственном ангионевротическом отеке",
+                "topAlt" : "Живете ли вы с наследственным ангионевротическим отеком (НАО), или у кого-то из ваших близких есть это заболевание, общение с другими людьми, которые понимают проблемы, с которыми приходится сталкиваться, может быть чрезвычайно полезным. Общение с людьми из сообщества НАО поможет открыть новые ресурсы, создать сеть поддержки и найти помощь, когда она вам понадобится.",
+                "learnMore" : "Узнайте больше о сообществе HAE",
+                "lovedTitle" : "общайтесь с друзьями и близкими",
+                "lovedAlt" : "Конечно, ваши медицинские данные — это личное дело, но подумайте о том, чтобы рассказать своим близким друзьям, родственникам и коллегам о том, что у вас НАО. Поговорите с ними открыто и честно, чтобы они знали, как поддержать вас и какие меры следует предпринять в случае чрезвычайной ситуации."
+            }
+        },
+        "hcp" : {
+            "symptoms" : {
+                "title" : "knowHAE | наследственном ангионевротическом отеке признаки и симптомы",
+                "topTitle" : "что такое наследственный ангионевротический отек?",
+                "topAlt" : "Узнайте о признаках и симптомах наследственного ангионевротического отека (НАО) и о том, как определить заболевание у ваших пациентов, чтобы вместе можно было принять меры.",
+                "p1" : "НАО — редкое аутосомно-доминантное заболевание, которое поражает приблизительно 1 из 50 000 человек во всем мире. <sup>1,3</sup>",
+                "p2" : "Оно вызывает спонтанные приступы отека в различных частях тела. <sup>3,4</sup>",
+                "h5" : "Приступы отека непредсказуемы по частоте и тяжести, и они могут представлять угрозу для жизни при их возникновении в горле. <sup>4,5</sup>",
+                "goodtoknow" : "полезная информация",
+                "goodtoknowAlt" : "Бремя заболевания НАО может распространяться не только на периоды приступов, но и влиять на повседневную жизнь. Из-за непредсказуемой природы НАО может вызвать значительные эмоциональные, психосоциальные нарушения и ухудшение качества жизни у некоторых пациентов и их опекунов. <sup>2,6</sup>",
+                "h4" : "Распространенные места приступов НАО <sup>3,4</sup>",
+                "h3" : "что может вызвать приступы наследственного ангионевротического отека?",
+                "p3" : "Существует несколько различных форм НАО, которые в настоящее время распознаются и генетически идентифицируются. Политика использования cookies распространенными являются:",
+                "blockquote1" : {
+                    "h4" : "Дефицит C1-INH (тип 1 НАО, НАО-1):",
+                    "p" : "характеризуется низкими антигенными и функциональными уровнями C1-INH"
+                },
+                "blockquote2" : {
+                    "h4" : "Дисфункция C1-INH (тип 2 НАО, НАО-2):",
+                    "p" : "характеризуется нормальными или повышенными антигенными, но низкими функциональными уровнями 7 C1-INH"
+                },
+                "p4" : "В системе калликреин-кинин C1-INH ингибирует выработку брадикинина, влияя на активность калликреина в плазме. Нарушение регуляции активности калликреина в плазме в системе калликреин-кинин приводит к расщеплению кининогена с высокой молекулярной массой и чрезмерной выработке брадикинина, что может привести к приступам. <sup>8,9</sup>",
+                "types" : "Типы НАО<sup>4</sup>",
+                "p5" : "Другие формы НАО, которые не включают мутации C1-INH, включают:",
+                "li1" : "Мутация гена F12 (НАО-FXII) <sup>7</sup>",
+                "li2" : "Мутация гена ангиопоэтина-1 (НАО -ANGPTI) <sup>7</sup>",
+                "li3" : "Мутация гена плазминогена (НАО -PLG) <sup>7</sup>",
+                "li4" : "Кининоген 1 (HAO-KNG1)",
+                "li5" : "Миоферлин (HAO-MYOF)",
+                "li6" : "Гепарансульфат-глюкозамин-3-О-сульфотрансфераза 6 (HAO-HS3ST6)",
+                "li7" : "НАО с неизвестной мутацией (HAO-UNK)",
+                "prodromal" : "триггеры и продромальные симптомы наследственного ангионевротического отека",
+                "prodromalAlt" : "Несмотря на то, что многие из них не поддаются идентификации, некоторые приступы НАО могут быть связаны с <sup>10</sup>: ",
+                "prodromalUl" : {
+                    "li1" : "эмоциональнымстрессом,",
+                    "li2" : "физической травмой,",
+                    "li3" : "изменением уровней гормонов,",
+                    "li4" : "инфекцией,",
+                    "li5" : "лекарственным препаратом,",
+                    "li6" : "воздействием холода,",
+                    "li7" : "нетравматической компрессией тканей,",
+                    "li8" : "длительным сидением или стоянием,",
+                    "li9" : "некоторыми продуктами питания."
+                },
+                "predictive" : "Предвестники могут предсказывать приступ в некоторых случаях и часто описываются как <sup>11-13</sup>: ",
+                "predictiveUl" : {
+                    "li1" : "усталость или недомогание,",
+                    "li2" : "беспокойство,",
+                    "li3" : "тошнота,",
+                    "li4" : "боль в суставах,",
+                    "li5" : "спазмы,",
+                    "li6" : "тревожность или изменение настроения."
+                },
+                "experience" : "У пациента также может наблюдаться ощущение покалывания, сдавленность в коже или незудящая сыпь, которая называется «маргинальная эритема». <sup>12-14</sup>",
+                "goodtoknowAlt2" : "История приступов <em>не</em> является прогностическим фактором будущей частоты, степени тяжести или местоположения приступов.<sup>5</sup>",
+                "diagnosing" : "диагностика НАО"
+            },
+            "diagnosing" : {
+                "title" : "knowHAE | диагностика наследственного ангионевротического отека",
+                "topTitle" : "как диагностируется наследственный ангионевротический отек?",
+                "topAlt" : "При диагностике наследственного ангионевротического отека (НАО) следует учитывать сочетание факторов, включая симптомы, семейный анамнез и лабораторные анализы. <sup>1</sup>",
+                "testing" : "анализ на дефицит или дисфункцию C1-INH",
+                "p1" : "Пациенты, у которых подозревается НАО типа 1 или 2, должны быть оценены на предмет уровней C1- INH в крови, белка C1-INH и C4. Использование анализа комплемента — анализ периферической крови пациента покажет низкие уровни C4 в дополнение к низкой активности или уровням C1- INH. Если какой-либо из уровней аномально низкий, анализы следует повторить для подтверждения диагноза. <sup>1,3</sup>",
+                "p2" : "Были описаны другие формы НАО, которые не включают мутации C1-INH и встречаются редко. Однако у пациентов с этим типом НАО могут быть клинические симптомы, которые не отличаются от типов 1 и 2, и эти пациенты имеют нормальные уровни C1-INH в плазме и функциональный C1-INH. Это называется НАО 3 типа. <sup>1, 7</sup>",
+                "h3" : "задержки в диагностике наследственного ангионевротического отека",
+                "h4" : "<br /> НАО часто неправильно диагностируется, даже среди пациентов с семейным анамнезом <sup>5</sup>:",
+                "li1" : "В исследовании в реальной клинической практике регистра пациентов с НАО типа 1 или 2 <strong>почти половина пациентов изначально были неправильно диагностированы</strong> (185/418) ",
+                "li2" : "- У пациентов с ошибочным диагнозом <strong>средняя задержка с постановкой диагноза составляла 15 лет</strong><sup>5</sup>",
+                "li3" : "В целом, неправильный диагноз может привести к увеличению использования ресурсов здравоохранения, включая <strong>ненужные хирургические вмешательства на брюшной полости и повышенный риск смерти от приступов отека гортани</strong><sup>6-8</sup>",
+                "goodtoknow" : "полезная информация",
+                "goodtoknowAlt" : "Генетический анализ повышает надежность диагностики у детей. Он может быть полезным, если известна мутация родителя, или если данные биохимических исследований являются неубедительными. <sup>2,3</sup>",
+                "treating" : "лечение НАО"
+            },
+            "treating" : {
+                "title" : "knowHAE | лечение наследственного ангионевротического отека",
+                "topTitle" : "как лечится наследственный ангионевротический отек?",
+                "topAlt" : "При отсутствии лечения приступы наследственного ангионевротического отека (НАО) постепенно усиливаются в течение 12–24 часов и обычно проходят в течение 1–5 дней. Лечение НАО должно быть индивидуальным в соответствии с потребностями и образом жизни вашего пациента, чтобы уменьшить бремя заболевания, предотвращая или ослабляя приступы. <sup>1,2</sup>",
+                "h5" : "<strong>Согласно Руководству по лечению Всемирной Организации Аллергологов 2021 г. (ВАО), НАО необходимо лечить следующим образом:</strong><br />  ",
+                "collapse" : {
+                    "onDemand" : {
+                        "title" : "терапия по требованию",
+                        "p1" : "<strong>Рекомендации ВАО/ЕААКИ:</strong>",
+                        "p2" : "Мы рекомендуем, чтобы все приступы: ",
+                        "li1" : "рассматривались для лечения по требованию.",
+                        "li2" : "Мы рекомендуем, чтобы любой приступ, затрагивающий или потенциально затрагивающий верхние дыхательные пути, подлежал лечению.",
+                        "li3" : "купировали как можно раньше.",
+                        "p3" : "<sup></sup>"
+                    },
+                    "shortTerm" : {
+                        "title" : "краткосрочная профилактическая терапия",
+                        "p1" : "<strong>Рекомендации ВАО/ЕААКИ:</strong>",
+                        "p2" : "Мы рекомендуем краткосрочную профилактику перед процедурами, которые могут спровоцировать приступ.<sup>3</sup>",
+                        "p3" : "",
+                        "p4" : ""
+                    },
+                    "longTerm" : {
+                        "title" : "долгосрочная профилактическая терапия",
+                        "p1" : "<strong>Рекомендации ВАО/ЕААКИ:</strong>",
+                        "p2" : "Мы рекомендуем оценивать необходимость назначения долгосрочной профилактики пациентам на каждом визите. Следует учитывать бремя заболевания и предпочтения пациента.<sup>3</sup>"
+                    }
+                },
+                "em" : "",
+                "latin" : "",
+                "watch" : "посмотрите и узнайте:",
+                "highlights" : "",
+                "p1" : "",
+                "p2" : "Обратите внимание, что текущие рекомендации по лечению предназначены только для пациентов с НАО типа 1 и типа 2; патогенез других форм НАО недостаточно хорошо определен, поэтому варианты лечения могут не быть столь же эффективными. <sup>4</sup>",
+                "managing" : "узнайте больше о текущих методах лечения",
+                "burden" : "Я — медицинский работник, у которого есть пациенты с НАО"
+            },
+            "burden" : {
+                "title" : "knowHAE | наследственным ангионевротическим отек влияние",
+                "topTitle" : "бремя наследственного ангионевротического отека может сохраняться между приступами",
+                "topAlt" : "Возможно, вы уже знакомы с признаками и симптомами наследственного ангионевротического отека (НАО), но оценка его полного воздействия на ваших пациентов может помочь в достижении целей и планировании лечения.",
+                "h3" : "наследственный ангионевротический отек ограничивает свободу в выборе пациента своего пути в жизни",
+                "p1" : "Даже после того, как физические симптомы утихнут, НАО может по-прежнему влиять на пациента. Во многих случаях сам момент ожидания развития приступа НАО ограничивает полноценную жизнь пациента <sup>1</sup>.",
+                "p2" : "В связи с непредсказуемым характером заболевания у некоторых пациентов отмечается высокий уровень стресса и беспокойства в повседневной жизни. Эти чувства связаны с <sup>1,2</sup>: ",
+                "li1" : {
+                    "a" : "нарушенной социальной активностью в жизни,",
+                    "b" : "ограниченными возможностями в образовании,",
+                    "c" : "тревогой о будущих приступах,",
+                    "d" : "страхом передачи НАО своим детям."
+                },
+                "p3" : "В дополнение к отсутствию и потере работоспособности пациенты сообщили, что НАО препятствовал их карьере или образованию <sup>5,6</sup>: ",
+                "li2" : {
+                    "a" : "влиял на выбор образования*,",
+                    "b" : "препятствовал выбору трудовой деятельности†,",
+                    "c" : "заставлял уволиться или поменять должность в компании†."
+                },
+                "p4" : "Из-за этого пациенты часто отказываются от <sup>1,2</sup>: ",
+                "li3" : {
+                    "a" : "путешествия и отдыха,",
+                    "b" : "некоторых хобби,",
+                    "c" : "спорта и других видов физической активности,",
+                    "d" : "общественных мероприятий."
+                },
+                "p5" : "Это не просто отмена планов, некоторые пациенты даже не будут рассматривать планирование этих мероприятий изначально <sup>1</sup>",
+                "goodtoknow" : "полезная информация",
+                "goodtoknowAlt" : "38% и 14% пациентов с НАО имели клинически значимое тревожное и депрессивное состояние, соответственно, по сравнению с общей популяцией 3,6% и 4,4%. <sup>*</sup><sup>3,4</sup>",
+                "eu" : " *На основании опросника общей оценки нарушения трудоспособности и повседневной деятельности (N = 457), распространяемого в США с ноября 2007 г. по январь 2008 г.<sup>6</sup> <br> †На основании количественных ответов на вопросы исследования (N = 186) в исследовании бремени заболевания наследственного ангионевротического отека в Европе в 2011 г. <sup>3</sup>",
+                "angioedema" : "Переоценка истинного бремени наследственного ангионевротического отека.",
+                "angioedemaAlt" : "Узнайте, как вы и ваши пациенты можете раскрыть бремя НАО.",
+                "talking" : "Разговор с пациентами"
+            },
+            "talking" : {
+                "title" : "knowHAE | наследственным ангионевротическим отек, общение с пациентом",
+                "topTitle" : "обсуждение с вашими пациентами общего влияния наследственного ангионевротического отека",
+                "topAlt" : "Вы стремитесь снизить влияние наследственного ангионевротического отека (НАО) на пациентов. Но насколько откровенны ваши пациенты по поводу того, как НАО влияет на них? Многие пациенты могут даже не осознавать, насколько масштабным может стать негативное влияние НАО. <sup>1</sup>",
+                "p1" : "Чтобы помочь оценить масштаб влияния НАО, подумайте о том, какие вопросы вы можете задать своим пациентам:",
+                "check1" : "Как часто Вы беспокоитесь о непредсказуемости будущего приступа?",
+                "check2" : "Вы отказывались от путешествий из-за страха приступа?",
+                "check3" : "Вы ограничивали свою социальную активность и мероприятия?",
+                "check4" : "Вы упустили возможности для обучения или профессионального развития?",
+                "managing" : "лечение НАО"
+            },
+            "managing" : {
+                "title" : "knowHAE | лечение наследственного ангионевротического отека",
+                "topTitle" : "лечение наследственного ангионевротического отека",
+                "topAlt" : "Все пациенты с наследственным ангионевротическим отеком (НАО) должны иметь индивидуальный план лечения, который тщательно составлен для удовлетворения их потребностей и соответствует их образу жизни. Индивидуальные планы лечения должны включать профилактические меры, уход на дому и самостоятельное введение препарата, а также эффективный план лечения (по необходимости) с четкими инструкциями о том, как лучше всего использовать лекарственные препараты для купирования приступов НАО. <sup>1</sup>",
+                "h3" : "рекомендации по лечению Всемирной аллергологической организации в 2021г.",
+                "p1" : "Рекомендуется информировать всех пациентов с НАО о возможных триггерных факторах, которые могут вызвать приступы НАО. <sup>1</sup>",
+                "collapse" : {
+                    "onDemand" : {
+                        "title" : "лечение по требованию",
+                        "li1" : "Для каждого приступа следует рассматривать лечение по требованию, каждый приступ следует начинать лечить как можно раньше. Следует лечить все приступы, потенциально затрагивающие верхние дыхательные пути.<sup>1</sup>",
+                        "li2" : "<sup></sup>",
+                        "li3" : "Все пациенты должны иметь с собой препарат для терапии по требованию для купирования двух приступов.<sup>1</sup>"
+                    },
+                    "treatment" : {
+                        "title" : "профилактическое лечение",
+                        "li1" : "<strong>Краткосрочная профилактика:</strong> согласно данным, несмотря на профилактику, отеки могут возникать даже после относительно незначительных процедур. Тем не менее, несколько отчетов указывают на снижение частоты возникновения отеков как у взрослых, так и у детей с предпроцедурной профилактикой, и это зависит, по-видимому, от дозы. Поэтому рекомендуется краткосрочная профилактика перед медицинскими, хирургическими или стоматологическими процедурами, а также перед воздействием других факторов, вызывающих приступы ангионевротического отека.<sup>1</sup>",
+                        "li2" : "<strong>Долгосрочная профилактика:</strong> рассматривается для пациентов, которые сталкиваются с явлениями в жизни, которые могут вызвать повышенную активность заболевания; пациенты должны проходить обследование на предмет долгосрочной профилактики на каждом визите, принимая во внимание бремя заболевания и предпочтения пациента.<sup>1</sup>",
+                        "li3" : "Целью лечения является достижение полного контроля над заболеванием и нормализация жизни пациентов, что в настоящее время может быть достигнуто только путем долгосрочной профилактики.<sup>1</sup>"
+                    }
+                },
+                "goodtoknow" : "Полезная информация",
+                "goodtoknowAlt" : "Андрогены рекомендуются в качестве терапии второй линии, C1-ингибитор — первой линии. Андрогены должны рассматриваться в критических случаях, при этом иметь виду развитие нежелательных андрогенных и анаболических проявлений, лекарственных взаимодействий и противопоказаний.1",
+                "em" : "",
+                "watch" : "посмотрите и узнайте:",
+                "h5" : "",
+                "p2" : "",
+                "p3" : "Обратите внимание, что текущие рекомендации по лечению предназначены только для пациентов с НАО типа 1 и типа 2; патогенез других форм НАО недостаточно хорошо охарактеризован, поэтому варианты лечения могут не быть столь же эффективными. <sup>1</sup>",
+                "identifying" : "определение НАО"
+            }
+        },
+        "utility" : {
+            "sitemap" : {
+                "title" : "Карта сайта",
+                "h1" : "Карта сайта",
+                "h2" : "Карта сайта",
+                "nav" : {
+                    "li1" : "Главная страница",
+                    "li2" : {
+                        "title" : "что такое НАО?",
+                        "li1" : "признаки и симптомы",
+                        "li2" : "диагностика НАО",
+                        "li3" : "лечение НАО"
+                    },
+                    "li3" : {
+                        "title" : "жизнь с НАО",
+                        "li1" : "влияние НАО",
+                        "li2" : "наследование НАО",
+                        "li3" : "поддержка при НАО"
+                    },
+                    "li4" : "Для медицинских работников",
+                    "li5" : {
+                        "title" : "определение НАО",
+                        "li1" : "признаки и симптомы",
+                        "li2" : "диагностика НАО",
+                        "li3" : "лечение НАО"
+                    },
+                    "li6" : {
+                        "title" : "влияние НАО",
+                        "li1" : "бремя болезни HAO",
+                        "li2" : "общение с пациентом",
+                        "li3" : "лечение НАО"
+                    },
+                    "li7" : "Свяжитесь с нами",
+                    "li8" : "Политика конфиденциальности и файлов Cookies",
+                    "li9" : "Официальное уведомление"
+                }
+            }
+        }
+
+    }
+}
