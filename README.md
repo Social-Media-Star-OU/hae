@@ -1,7 +1,12 @@
+## Overview
+This project is a website that utilizes the [FastRoute](https://github.com/nikic/FastRoute) library for routing, as well as the [php-i18n](https://github.com/Philipp15b/php-i18n) library for internationalization. 
+It is designed to provide a simple yet efficient routing mechanism and language support for web applications.
+
 ## Features
-- Simple routing with [FastRoute](https://github.com/nikic/FastRoute)
-- Basic internationalization support
-- Clean and modular PHP code structure
+- Lightweight and fast routing system.
+- Built-in internationalization support using php-i18n.
+- Easy integration with PHP applications.
+- Organized file structure for maintainability.
 
 ## Requirements
 - PHP 8.0 or higher
@@ -17,9 +22,12 @@
    composer install
 
 ## Usage
-**index.php:** The entry point of the application. It sets up the routing and handles incoming requests.
-**composer.json:** Contains the project dependencies. The primary dependency is nikic/fast-route for routing.
-**class_i18.php:** A class file (presumably for internationalization or similar functionality) used within the project.
+**index.php:** 
+The entry point of the application. It sets up the routing and handles incoming requests.
+**composer.json:** 
+Contains the project dependencies. The primary dependencies are nikic/fast-route for routing and Philipp15b/php-i18n for internationalization.
+**class_i18.php:** 
+A class file that likely provides additional internationalization functionality.
 
 ## To run the application, you can use a PHP built-in server for development:
 **php -S localhost:8000**
