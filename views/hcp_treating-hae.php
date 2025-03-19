@@ -85,7 +85,7 @@
                                   <div class="panel-heading" role="tab" id="headingTwo">
                                     <h4 class="panel-title">
                                       <a role="button" data-toggle="collapse" data-parent="#accordion" href="#17" aria-expanded="false" aria-controls="17" class="">
-                                        <div class="field field--name-field-title field--type-string field--label-hidden field--item"><?=L::page_hcp_treating_collapse_onDemand_title;?></div>
+                                        <div class="field field--name-field-title field--type-string field--label-hidden field--item" style="font-size:13px!important"><?=L::page_hcp_treating_collapse_onDemand_title;?></div>
                                       </a>
                                     </h4>
                                   </div>
@@ -116,7 +116,7 @@
                                   <div class="panel-heading" role="tab" id="headingOne">
                                     <h4 class="panel-title">
                                       <a role="button" data-toggle="collapse" data-parent="#accordion" href="#70" aria-expanded="false" aria-controls="70" class="collapsed">
-                                        <div class="field field--name-field-title field--type-string field--label-hidden field--item"><?=L::page_hcp_treating_collapse_shortTerm_title;?></div>
+                                        <div class="field field--name-field-title field--type-string field--label-hidden field--item" style="font-size:13px!important"><?=L::page_hcp_treating_collapse_shortTerm_title;?></div>
                                       </a>
                                     </h4>
                                   </div>
@@ -145,7 +145,7 @@
                                   <div class="panel-heading" role="tab" id="headingTwo">
                                     <h4 class="panel-title">
                                       <a role="button" data-toggle="collapse" data-parent="#accordion" href="#98" aria-expanded="false" aria-controls="98" class="">
-                                        <div class="field field--name-field-title field--type-string field--label-hidden field--item"><?=L::page_hcp_treating_collapse_shortTerm_title;?></div>
+                                        <div class="field field--name-field-title field--type-string field--label-hidden field--item"  style="font-size:13px!important"><?=L::page_hcp_treating_collapse_shortTerm_title;?></div>
                                       </a>
                                     </h4>
                                   </div>
@@ -178,7 +178,7 @@
                                   <div class="panel-heading" role="tab" id="headingOne">
                                     <h4 class="panel-title">
                                       <a role="button" data-toggle="collapse" data-parent="#accordion" href="#52" aria-expanded="false" aria-controls="52" class="collapsed">
-                                        <div class="field field--name-field-title field--type-string field--label-hidden field--item"><?=L::page_hcp_treating_collapse_longTerm_title;?></div>
+                                        <div class="field field--name-field-title field--type-string field--label-hidden field--item"  style="font-size:13px!important"><?=L::page_hcp_treating_collapse_longTerm_title;?></div>
                                       </a>
                                     </h4>
                                   </div>
@@ -207,7 +207,7 @@
                                   <div class="panel-heading" role="tab" id="headingTwo">
                                     <h4 class="panel-title">
                                       <a role="button" data-toggle="collapse" data-parent="#accordion" href="#26" aria-expanded="false" aria-controls="26" class="">
-                                        <div class="field field--name-field-title field--type-string field--label-hidden field--item"><?=L::page_hcp_treating_collapse_longTerm_title;?></div>
+                                        <div class="field field--name-field-title field--type-string field--label-hidden field--item"  style="font-size:13px!important"><?=L::page_hcp_treating_collapse_longTerm_title;?></div>
                                       </a>
                                     </h4>
                                   </div>
